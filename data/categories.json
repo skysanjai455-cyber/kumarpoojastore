@@ -1,0 +1,5 @@
+[
+  { "id": "c1", "slug": "agarbathis", "name": "Agarbathis", "parent": null },
+  { "id": "c2", "slug": "kits", "name": "Kits & Packages", "parent": null },
+  { "id": "c3", "slug": "lamps", "name": "Lamps", "parent": null }
+]

@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+.DS_Store
+.vscode/
+npm-debug.log
+yarn-error.log
+.idea/
+public/images/*.svg
+# keep product images committed if you want them deployed; comment the above line if you want them in repo

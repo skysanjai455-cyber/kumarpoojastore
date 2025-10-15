@@ -1,0 +1,11 @@
+# Sample CSV: idOrSlug,imagePath
+# imagePath can be:
+#  - /images/foo.jpg    (already in public)
+#  - ./local/path.jpg    (local filesystem path; will be copied into public/images/)
+#  - C:\\absolute\\path\\to\\image.jpg  (Windows absolute path)
+
+# Examples:
+# slug-001,./assets/product1.jpg
+# 5,/images/existing.jpg
+
+# Place your mappings below (remove the leading '#')

@@ -1,0 +1,13 @@
+Short order message:
+Hi, I'd like to order: {Product Name} x {Qty} — ₹{Price}
+
+Detailed order message (customer):
+Hello, I want to place an order from Kumar Pooja Store:\n
+- Name: {Your Name}\n- Phone: {Your Phone}\n- Shipping address: {Address}\n- Items:\n  {Product 1} x {Qty}\n  {Product 2} x {Qty}\n- Total: ₹{Total}\n\nPlease confirm availability and shipping cost.
+
+Product description template:
+- Title: {Product Name}
+- Short: 1-sentence highlight.
+- Description: 2–4 sentences — material, size, usage, care.
+- Attributes: Weight, material, kit items.
+- Shipping: Estimated dispatch & shipping details.

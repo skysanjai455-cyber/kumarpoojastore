@@ -1,0 +1,116 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #__next {
+  height: 100%;
+}
+
+body {
+  /* warm / traditional theme */
+  --kp-maroon: #7a0f10;
+  --kp-gold: #d4af37;
+  --kp-deeporange: #ff6f00;
+  --kp-cream: #fff7f0;
+  background: linear-gradient(180deg, var(--kp-cream), #fff 60%);
+  color: rgba(26,26,26,0.95);
+  font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+  line-height: 1.45;
+}
+
+.container {
+  @apply max-w-6xl mx-auto px-4;
+}
+
+/* Decorative border utility */
+.kp-decorative {
+  border: 1px solid rgba(122,15,16,0.08);
+  box-shadow: 0 6px 18px rgba(122,15,16,0.06);
+  background: white;
+  border-radius: 12px;
+}
+
+.kp-accent {
+  background: linear-gradient(90deg, var(--kp-maroon), var(--kp-deeporange));
+  color: white;
+}
+
+.kp-gold-text { color: var(--kp-gold); }
+
+h1, h2, h3, .heading {
+  font-family: 'Playfair Display', serif;
+  color: var(--kp-maroon);
+}
+
+.lead { color: rgba(30,30,30,0.85); }
+
+.kp-border-decor { border-image: linear-gradient(90deg, var(--kp-maroon), var(--kp-gold)) 1; }
+
+/* Decorative placements */
+.decorative-corner {
+  position: relative;
+}
+.decorative-corner::before {
+  content: '';
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  background-image: url('/flourish-corner.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+  top: -10px;
+  right: -10px;
+  opacity: 0.9;
+  pointer-events: none;
+}
+
+.decorative-sep { background-image: url('/flourish-sep.svg'); background-repeat: no-repeat; background-position: center; height: 48px; }
+
+/* Tiled subtle pattern (small dots) */
+.kp-tile-pattern { background-image: radial-gradient(rgba(122,15,16,0.04) 1px, transparent 1px); background-size: 12px 12px; }
+
+/* Simple aspect ratio helper (4:3) when Tailwind aspect-ratio plugin isn't available */
+.kp-aspect-4-3 { position: relative; padding-top: 75%; }
+.kp-aspect-4-3 > img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+
+.qr-wrapper img { display: block; max-width: 100%; height: auto; }
+
+/* Cart badge styling (moved from inline styles) */
+.kp-cart-badge {
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  background: var(--kp-gold);
+  color: var(--kp-maroon);
+  border-radius: 9999px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 12px;
+  font-weight: 600;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+/* Focus styles for accessibility */
+:focus-visible {
+  outline: 3px solid rgba(212,175,55,0.22);
+  outline-offset: 3px;
+}
+
+/* Heading scale improvements */
+h1 { font-size: 2.25rem; }
+@media (min-width: 768px) { h1 { font-size: 3rem; } }
+
+/* Slightly larger footer text for readability */
+.kp-decorative.footer-text { font-size: 0.95rem; }
+
+/* Logo gold border */
+.kp-logo-gold { border-color: var(--kp-gold); }
+
+/* WhatsApp button themed outline */
+.kp-wa-btn { border-color: var(--kp-gold); color: var(--kp-maroon); }
+
+/* Price badge left accent */
+.kp-price-badge { border-left: 3px solid var(--kp-gold); }

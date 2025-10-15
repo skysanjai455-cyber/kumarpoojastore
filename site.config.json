@@ -1,0 +1,20 @@
+{
+  "name": "Kumar Pooja Store",
+  "address": "Ambai Rd, opposite to TPV Multiplex, Alangulam, Tamil Nadu 627851",
+  "whatsapp": "+919489657260",
+  "phones": ["+919489830438","+919489657260"],
+  "shipping": "local_pickup",
+  "gst": false,
+  "delivery_area": "Tamil Nadu",
+  "payment": "gpay",
+  "logo": "/logo.png",
+  "hero": "/hero-banner.jpg",
+  "heroVideo": "/hero-banner.mp4"
+  ,
+  "upi_vpa": "kannan76.tk-4@oksbi",
+  "paytm": {
+    "merchantId": "",
+    "clientId": "",
+    "upi_vpa": "9489657260@ptsbi"
+  }
+}

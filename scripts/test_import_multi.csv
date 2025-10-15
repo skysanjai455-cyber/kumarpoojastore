@@ -1,0 +1,2 @@
+prod3,./scripts/test-images/prod3.svg,/images/external-prod3.jpg
+prod4,"./scripts/test-images/prod4a.svg;./scripts/test-images/prod4b.svg"

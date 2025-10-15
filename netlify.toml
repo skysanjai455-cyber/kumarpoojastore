@@ -1,0 +1,16 @@
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[plugins]
+  package = "@netlify/plugin-nextjs"
+
+[functions]
+  directory = "netlify/functions"
+
+[redirects]
+# pass-through for Next static assets (plugin handles most routing)
+  [[redirects]]
+  from = "/_next/*"
+  to = "/_next/:splat"
+  status = 200
