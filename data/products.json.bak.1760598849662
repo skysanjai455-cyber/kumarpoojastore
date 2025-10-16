@@ -5,8 +5,7 @@
     "name": "Classic Cotton Shirt",
     "description": "A breathable cotton shirt, comfortable for everyday wear.",
     "images": [
-      "/images/prod-1.svg",
-      "/images/prod-1.jpg"
+      "/images/prod-1.svg"
     ],
     "stock": 20,
     "category": "agarbathis"
@@ -28,8 +27,7 @@
     "name": "Women's A-line Dress",
     "description": "Lightweight A-line dress suitable for casual and festive wear.",
     "images": [
-      "/images/prod-3.svg",
-      "/images/prod-3.jpg"
+      "/images/prod-3.svg"
     ],
     "stock": 12,
     "category": "lamps"
@@ -73,8 +71,7 @@
     "name": "Cotton Bedsheet Set",
     "description": "Soft, breathable bedsheet set available in multiple sizes.",
     "images": [
-      "/images/prod-7.svg",
-      "/images/prod-7.jpg"
+      "/images/prod-7.svg"
     ],
     "stock": 40,
     "category": "agarbathis"
@@ -96,8 +93,7 @@
     "name": "Stainless Steel Water Bottle",
     "description": "Insulated bottle keeps drinks cold or hot for hours.",
     "images": [
-      "/images/prod-9.svg",
-      "/images/prod-9.jpg"
+      "/images/prod-9.svg"
     ],
     "stock": 50,
     "category": "lamps"
@@ -218,8 +214,7 @@
     "name": "Kitchen Knife Set",
     "description": "Set of stainless steel knives with ergonomic handles.",
     "images": [
-      "/images/prod-20.svg",
-      "/images/prod-20.jpg"
+      "/images/prod-20.svg"
     ],
     "stock": 10,
     "category": "kits"
@@ -241,8 +236,7 @@
     "name": "LED Desk Lamp",
     "description": "Adjustable brightness and color temperature.",
     "images": [
-      "/images/prod-22.svg",
-      "/images/prod-22.jpg"
+      "/images/prod-22.svg"
     ],
     "stock": 27,
     "category": "agarbathis"
@@ -473,8 +467,7 @@
     "name": "Beard Oil",
     "description": "Nourishing oil for beard grooming.",
     "images": [
-      "/images/prod-43.svg",
-      "/images/prod-43.jpg"
+      "/images/prod-43.svg"
     ],
     "stock": 38,
     "category": "agarbathis"
@@ -485,8 +478,7 @@
     "name": "Face Towel Set",
     "description": "Soft and absorbent face towels in a set of 3.",
     "images": [
-      "/images/prod-44.svg",
-      "/images/prod-44.jpg"
+      "/images/prod-44.svg"
     ],
     "stock": 47,
     "category": "kits"
@@ -497,8 +489,7 @@
     "name": "Essential Oil Diffuser",
     "description": "Ultrasonic diffuser with ambient LED lights.",
     "images": [
-      "/images/prod-45.svg",
-      "/images/prod-45.jpg"
+      "/images/prod-45.svg"
     ],
     "stock": 13,
     "category": "lamps"
@@ -597,8 +588,7 @@
     "name": "Kids' T-shirt",
     "description": "Colorful T-shirt for children with soft fabric.",
     "images": [
-      "/images/prod-54.svg",
-      "/images/prod-54.jpg"
+      "/images/prod-54.svg"
     ],
     "stock": 58,
     "category": "lamps"

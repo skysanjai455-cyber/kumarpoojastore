@@ -5,8 +5,7 @@
     "name": "Classic Cotton Shirt",
     "description": "A breathable cotton shirt, comfortable for everyday wear.",
     "images": [
-      "/images/prod-1.svg",
-      "/images/prod-1.jpg"
+      "/images/prod-1.svg"
     ],
     "stock": 20,
     "category": "agarbathis"
@@ -28,8 +27,9 @@
     "name": "Women's A-line Dress",
     "description": "Lightweight A-line dress suitable for casual and festive wear.",
     "images": [
+      "/hero-banner.jpg",
       "/images/prod-3.svg",
-      "/images/prod-3.jpg"
+      "/images/external-prod3.jpg"
     ],
     "stock": 12,
     "category": "lamps"
@@ -40,6 +40,7 @@
     "name": "Running Sneakers",
     "description": "Cushioned running shoes with breathable mesh.",
     "images": [
+      "/hero-banner.jpg",
       "/images/prod-4.svg"
     ],
     "stock": 30,
@@ -51,7 +52,7 @@
     "name": "Leather Wallet",
     "description": "Compact leather wallet with multiple card slots.",
     "images": [
-      "/images/prod-5.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 25,
     "category": "kits"
@@ -62,7 +63,7 @@
     "name": "Casual Loafers",
     "description": "Slip-on loafers for smart-casual occasions.",
     "images": [
-      "/images/prod-6.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 18,
     "category": "lamps"
@@ -73,8 +74,7 @@
     "name": "Cotton Bedsheet Set",
     "description": "Soft, breathable bedsheet set available in multiple sizes.",
     "images": [
-      "/images/prod-7.svg",
-      "/images/prod-7.jpg"
+      "/hero-banner.jpg"
     ],
     "stock": 40,
     "category": "agarbathis"
@@ -85,7 +85,7 @@
     "name": "Ceramic Mug",
     "description": "Microwave-safe ceramic mug with matte finish.",
     "images": [
-      "/images/prod-8.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 60,
     "category": "kits"
@@ -96,8 +96,7 @@
     "name": "Stainless Steel Water Bottle",
     "description": "Insulated bottle keeps drinks cold or hot for hours.",
     "images": [
-      "/images/prod-9.svg",
-      "/images/prod-9.jpg"
+      "/hero-banner.jpg"
     ],
     "stock": 50,
     "category": "lamps"
@@ -108,7 +107,7 @@
     "name": "Wireless Earbuds",
     "description": "True wireless earbuds with charging case and good battery life.",
     "images": [
-      "/images/prod-10.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 35,
     "category": "agarbathis"
@@ -119,7 +118,7 @@
     "name": "Bluetooth Speaker",
     "description": "Portable speaker with rich sound and long battery life.",
     "images": [
-      "/images/prod-11.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 22,
     "category": "kits"
@@ -130,7 +129,7 @@
     "name": "Travel Backpack",
     "description": "Durable backpack with laptop compartment and multiple pockets.",
     "images": [
-      "/images/prod-12.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 28,
     "category": "lamps"
@@ -141,7 +140,7 @@
     "name": "Sunglasses",
     "description": "UV-protection sunglasses with polarized lenses.",
     "images": [
-      "/images/prod-13.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 45,
     "category": "agarbathis"
@@ -152,7 +151,7 @@
     "name": "Wristwatch",
     "description": "Analog wristwatch with leather strap.",
     "images": [
-      "/images/prod-14.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 14,
     "category": "kits"
@@ -163,7 +162,7 @@
     "name": "Yoga Mat",
     "description": "Non-slip yoga mat with comfortable cushioning.",
     "images": [
-      "/images/prod-15.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 40,
     "category": "lamps"
@@ -174,7 +173,7 @@
     "name": "Organic Tea Pack",
     "description": "Premium organic tea leaves packed for freshness.",
     "images": [
-      "/images/prod-16.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 80,
     "category": "agarbathis"
@@ -185,7 +184,7 @@
     "name": "Handcrafted Soap",
     "description": "Natural ingredients and mild fragrance for daily use.",
     "images": [
-      "/images/prod-17.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 55,
     "category": "kits"
@@ -196,7 +195,7 @@
     "name": "Wall Art Print",
     "description": "High-quality art print for home decoration.",
     "images": [
-      "/images/prod-18.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 20,
     "category": "lamps"
@@ -207,7 +206,7 @@
     "name": "Ceramic Planter",
     "description": "Stylish planter pot for indoor plants.",
     "images": [
-      "/images/prod-19.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 30,
     "category": "agarbathis"
@@ -218,8 +217,7 @@
     "name": "Kitchen Knife Set",
     "description": "Set of stainless steel knives with ergonomic handles.",
     "images": [
-      "/images/prod-20.svg",
-      "/images/prod-20.jpg"
+      "/hero-banner.jpg"
     ],
     "stock": 10,
     "category": "kits"
@@ -230,7 +228,7 @@
     "name": "Cutting Board",
     "description": "Bamboo cutting board with juice groove.",
     "images": [
-      "/images/prod-21.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 33,
     "category": "lamps"
@@ -241,8 +239,7 @@
     "name": "LED Desk Lamp",
     "description": "Adjustable brightness and color temperature.",
     "images": [
-      "/images/prod-22.svg",
-      "/images/prod-22.jpg"
+      "/hero-banner.jpg"
     ],
     "stock": 27,
     "category": "agarbathis"
@@ -253,7 +250,7 @@
     "name": "Phone Case",
     "description": "Shockproof phone case with slim profile.",
     "images": [
-      "/images/prod-23.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 70,
     "category": "kits"
@@ -264,7 +261,7 @@
     "name": "Laptop Sleeve",
     "description": "Padded sleeve to protect laptops during travel.",
     "images": [
-      "/images/prod-24.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 26,
     "category": "lamps"
@@ -275,7 +272,7 @@
     "name": "Desk Organizer",
     "description": "Keep your desk tidy with compartments for stationery.",
     "images": [
-      "/images/prod-25.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 48,
     "category": "agarbathis"
@@ -286,7 +283,7 @@
     "name": "Portable Charger",
     "description": "High-capacity power bank for phones and tablets.",
     "images": [
-      "/images/prod-26.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 60,
     "category": "kits"
@@ -297,7 +294,7 @@
     "name": "Noise Cancelling Headphones",
     "description": "Over-ear headphones with active noise cancellation.",
     "images": [
-      "/images/prod-27.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 12,
     "category": "lamps"
@@ -308,7 +305,7 @@
     "name": "Travel Mug",
     "description": "Leak-proof travel mug keeps beverages hot.",
     "images": [
-      "/images/prod-28.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 45,
     "category": "agarbathis"
@@ -319,7 +316,7 @@
     "name": "Desk Chair Cushion",
     "description": "Ergonomic cushion for office chairs.",
     "images": [
-      "/images/prod-29.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 37,
     "category": "kits"
@@ -330,7 +327,7 @@
     "name": "Baby Blanket",
     "description": "Soft, hypoallergenic blanket for infants.",
     "images": [
-      "/images/prod-30.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 22,
     "category": "lamps"
@@ -341,7 +338,7 @@
     "name": "Kids' Puzzle",
     "description": "Educational puzzle toy for young children.",
     "images": [
-      "/images/prod-31.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 50,
     "category": "agarbathis"
@@ -352,7 +349,7 @@
     "name": "Board Game",
     "description": "Family board game for 2-6 players.",
     "images": [
-      "/images/prod-32.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 18,
     "category": "kits"
@@ -363,7 +360,7 @@
     "name": "Fitness Band",
     "description": "Track steps, heart rate, and sleep patterns.",
     "images": [
-      "/images/prod-33.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 40,
     "category": "lamps"
@@ -374,7 +371,7 @@
     "name": "Coffee Grinder",
     "description": "Manual coffee grinder with adjustable settings.",
     "images": [
-      "/images/prod-34.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 16,
     "category": "agarbathis"
@@ -385,7 +382,7 @@
     "name": "Herb Planter Kit",
     "description": "Grow kitchen herbs with this starter kit.",
     "images": [
-      "/images/prod-35.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 29,
     "category": "kits"
@@ -396,7 +393,7 @@
     "name": "Electric Kettle",
     "description": "Fast-boil electric kettle with auto shut-off.",
     "images": [
-      "/images/prod-36.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 21,
     "category": "lamps"
@@ -407,7 +404,7 @@
     "name": "Photo Frame",
     "description": "Classic wooden photo frame for 4x6 photos.",
     "images": [
-      "/images/prod-37.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 65,
     "category": "agarbathis"
@@ -418,7 +415,7 @@
     "name": "Bluetooth Keyboard",
     "description": "Slim wireless keyboard compatible with multiple devices.",
     "images": [
-      "/images/prod-38.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 24,
     "category": "kits"
@@ -429,7 +426,7 @@
     "name": "Rice Cooker",
     "description": "Compact rice cooker with keep-warm function.",
     "images": [
-      "/images/prod-39.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 19,
     "category": "lamps"
@@ -440,7 +437,7 @@
     "name": "Kitchen Timer",
     "description": "Digital timer with magnetic backing.",
     "images": [
-      "/images/prod-40.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 44,
     "category": "agarbathis"
@@ -451,7 +448,7 @@
     "name": "Baking Mat",
     "description": "Non-stick silicone baking mat for ovens.",
     "images": [
-      "/images/prod-41.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 34,
     "category": "kits"
@@ -462,7 +459,7 @@
     "name": "Puzzle Book",
     "description": "Brain-teasing puzzles for leisure time.",
     "images": [
-      "/images/prod-42.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 55,
     "category": "lamps"
@@ -473,8 +470,7 @@
     "name": "Beard Oil",
     "description": "Nourishing oil for beard grooming.",
     "images": [
-      "/images/prod-43.svg",
-      "/images/prod-43.jpg"
+      "/hero-banner.jpg"
     ],
     "stock": 38,
     "category": "agarbathis"
@@ -485,8 +481,7 @@
     "name": "Face Towel Set",
     "description": "Soft and absorbent face towels in a set of 3.",
     "images": [
-      "/images/prod-44.svg",
-      "/images/prod-44.jpg"
+      "/hero-banner.jpg"
     ],
     "stock": 47,
     "category": "kits"
@@ -497,8 +492,7 @@
     "name": "Essential Oil Diffuser",
     "description": "Ultrasonic diffuser with ambient LED lights.",
     "images": [
-      "/images/prod-45.svg",
-      "/images/prod-45.jpg"
+      "/hero-banner.jpg"
     ],
     "stock": 13,
     "category": "lamps"
@@ -509,7 +503,7 @@
     "name": "Rechargeable Torch",
     "description": "High-lumen torch with rechargeable battery.",
     "images": [
-      "/images/prod-46.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 31,
     "category": "agarbathis"
@@ -520,7 +514,7 @@
     "name": "Wireless Mouse",
     "description": "Compact wireless mouse with ergonomic shape.",
     "images": [
-      "/images/prod-47.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 52,
     "category": "kits"
@@ -531,7 +525,7 @@
     "name": "Graphic Tee",
     "description": "Soft cotton T-shirt with printed graphic.",
     "images": [
-      "/images/prod-48.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 26,
     "category": "lamps"
@@ -542,7 +536,7 @@
     "name": "Beanie Hat",
     "description": "Warm knit beanie for cold weather.",
     "images": [
-      "/images/prod-49.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 66,
     "category": "agarbathis"
@@ -553,7 +547,7 @@
     "name": "Scented Candle",
     "description": "Hand-poured scented candle with cotton wick.",
     "images": [
-      "/images/prod-50.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 40,
     "category": "kits"
@@ -564,7 +558,7 @@
     "name": "Compact Umbrella",
     "description": "Windproof umbrella that folds to a compact size.",
     "images": [
-      "/images/prod-51.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 29,
     "category": "lamps"
@@ -575,7 +569,7 @@
     "name": "Memory Foam Pillow",
     "description": "Comfortable pillow with contouring support.",
     "images": [
-      "/images/prod-52.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 17,
     "category": "agarbathis"
@@ -586,7 +580,7 @@
     "name": "Silk Scarf",
     "description": "Elegant silk scarf with printed pattern.",
     "images": [
-      "/images/prod-53.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 23,
     "category": "kits"
@@ -597,8 +591,7 @@
     "name": "Kids' T-shirt",
     "description": "Colorful T-shirt for children with soft fabric.",
     "images": [
-      "/images/prod-54.svg",
-      "/images/prod-54.jpg"
+      "/hero-banner.jpg"
     ],
     "stock": 58,
     "category": "lamps"
@@ -609,7 +602,7 @@
     "name": "Multi-tool",
     "description": "Compact multi-tool with pliers, knife and screwdriver.",
     "images": [
-      "/images/prod-55.svg"
+      "/hero-banner.jpg"
     ],
     "stock": 21,
     "category": "agarbathis"

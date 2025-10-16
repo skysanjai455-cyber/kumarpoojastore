@@ -8,7 +8,7 @@
 [functions]
   directory = "netlify/functions"
 
-[redirects]
+[[_redirects]]
 # pass-through for Next static assets (plugin handles most routing)
   [[redirects]]
   from = "/_next/*"
