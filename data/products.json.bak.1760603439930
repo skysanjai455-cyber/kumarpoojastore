@@ -1,607 +1,497 @@
 [
   {
-    "slug": "gopuram-meenakshi-kumkum",
     "id": "prod1",
+    "slug": "gopuram-meenakshi-kumkum",
     "name": "Gopuram Meenakshi Kumkum",
     "description": "Our Kumkum is a premium, natural vermilion powder made from the finest ingredients, traditionally used in Hindu rituals and celebrations. Its vibrant red color symbolizes prosperity, fertility, and good fortune. Free from harmful chemicals and safe for skin, ideal for festivals like Navratri and Diwali.",
     "category": "powders",
     "stock": 78,
-    "images": [
-      "/images/gopuram-meenakshi-kumkum.jpg"
-    ]
+    "images": ["/images/gopuram-meenakshi-kumkum.jpg"]
   },
   {
-    "slug": "aragaja",
     "id": "prod2",
+    "slug": "aragaja",
     "name": "Aragaja",
     "description": "A mesmerizing black exotic paste made from natural ingredients. Commonly offered to Devi during tantric rituals, known for its divine aroma and smooth texture.",
     "category": "powders",
     "stock": 55,
-    "images": [
-      "/images/aragaja.jpg"
-    ]
+    "images": ["/images/aragaja.jpg"]
   },
   {
-    "slug": "thazhampoo-kumkum",
     "id": "prod3",
+    "slug": "thazhampoo-kumkum",
     "name": "Thazhampoo Kumkum",
     "description": "Fresh Thalampoo Kungumam with natural Screw Pine flower fragrance. Purely handmade and chemical-free, ideal for pooja and spiritual bliss.",
     "category": "powders",
     "stock": 81,
-    "images": [
-      "/images/thazhampoo-kumkum.jpg"
-    ]
+    "images": ["/images/thazhampoo-kumkum.jpg"]
   },
   {
-    "slug": "ven-kadugu",
     "id": "prod4",
+    "slug": "ven-kadugu",
     "name": "Ven Kadugu",
     "description": "Premium mustard seeds from authentic farms, known for purity and natural health benefits. Used in pooja, cooking, and Ayurvedic practices.",
     "category": "powders",
     "stock": 69,
-    "images": [
-      "/images/ven-kadugu.jpg"
-    ]
+    "images": ["/images/ven-kadugu.jpg"]
   },
   {
-    "slug": "padikaram",
     "id": "prod5",
+    "slug": "padikaram",
     "name": "Padikaram",
     "description": "Used as an antipyretic, antiseptic, and hemostatic in several medicinal systems. Also applied in traditional formulations.",
     "category": "powders",
     "stock": 72,
-    "images": [
-      "/images/padikaram.jpg"
-    ]
+    "images": ["/images/padikaram.jpg"]
   },
   {
-    "slug": "paruthi-vidhai",
     "id": "prod6",
+    "slug": "paruthi-vidhai",
     "name": "Paruthi Vidhai",
     "description": "Natural seed that helps maintain blood pressure, heal ulcers, and support menstrual and neurological health.",
     "category": "powders",
     "stock": 67,
-    "images": [
-      "/images/paruthi-vidhai.jpg"
-    ]
+    "images": ["/images/paruthi-vidhai.jpg"]
   },
   {
-    "slug": "vetiver",
     "id": "prod7",
+    "slug": "vetiver",
     "name": "Vetiver",
     "description": "Vetiver root powder cools the body, purifies blood, and calms nerves. Traditionally used for ulcers, hair care, and fever relief.",
     "category": "powders",
     "stock": 74,
-    "images": [
-      "/images/vetiver.jpg"
-    ]
+    "images": ["/images/vetiver.jpg"]
   },
   {
-    "slug": "neeli-avuri",
     "id": "prod8",
+    "slug": "neeli-avuri",
     "name": "Neeli Avuri",
     "description": "Pure Indigofera tinctoria leaf powder that strengthens hair, detoxifies, and supports scalp health. 100% natural and preservative-free.",
     "category": "powders",
     "stock": 63,
-    "images": [
-      "/images/neeli-avuri.jpg"
-    ]
+    "images": ["/images/neeli-avuri.jpg"]
   },
   {
-    "slug": "nalangu-maavu",
     "id": "prod9",
+    "slug": "nalangu-maavu",
     "name": "Nalangu Maavu",
     "description": "Traditional herbal bath powder with turmeric and sandalwood for glowing skin and freshness. Suitable for rituals and daily care.",
     "category": "powders",
     "stock": 85,
-    "images": [
-      "/images/nalangu-maavu.jpg"
-    ]
+    "images": ["/images/nalangu-maavu.jpg"]
   },
   {
-    "slug": "shikakai-powder",
     "id": "prod10",
+    "slug": "shikakai-powder",
     "name": "Shikakai Powder",
     "description": "Natural hair cleanser and conditioner. Rich in vitamins and minerals that nourish roots and promote hair growth.",
     "category": "powders",
     "stock": 90,
-    "images": [
-      "/images/shikakai-powder.jpg"
-    ]
+    "images": ["/images/shikakai-powder.jpg"]
   },
   {
-    "slug": "turmeric-powder",
     "id": "prod11",
+    "slug": "turmeric-powder",
     "name": "Turmeric Powder",
     "description": "Pure turmeric powder symbolizing prosperity and positivity. Free from chemicals, ideal for pooja and daily rituals.",
     "category": "powders",
     "stock": 68,
-    "images": [
-      "/images/turmeric-powder.jpg"
-    ]
+    "images": ["/images/turmeric-powder.jpg"]
   },
   {
-    "slug": "kasthuri-turmeric-powder",
     "id": "prod12",
+    "slug": "kasthuri-turmeric-powder",
     "name": "Kasthuri Turmeric Powder",
     "description": "Natural beauty and pooja turmeric used for skin care and spiritual rituals. Helps remove pimples and impurities.",
     "category": "powders",
     "stock": 71,
-    "images": [
-      "/images/kasthuri-turmeric-powder.jpg"
-    ]
+    "images": ["/images/kasthuri-turmeric-powder.jpg"]
   },
   {
-    "slug": "chandan-powder",
     "id": "prod13",
+    "slug": "chandan-powder",
     "name": "Chandan Powder",
     "description": "Premium sandalwood powder used for pooja, meditation, and abishegam. Promotes peace and positive energy.",
     "category": "powders",
     "stock": 59,
-    "images": [
-      "/images/chandan-powder.jpg"
-    ]
+    "images": ["/images/chandan-powder.jpg"]
   },
   {
-    "slug": "chandan-tikka-paste",
     "id": "prod14",
+    "slug": "chandan-tikka-paste",
     "name": "Chandan Tikka Paste",
     "description": "Turmeric-rich tikka paste known for anti-inflammatory and healing properties. Ideal for spiritual and skin applications.",
     "category": "powders",
     "stock": 64,
-    "images": [
-      "/images/chandan-tikka-paste.jpg"
-    ]
+    "images": ["/images/chandan-tikka-paste.jpg"]
   },
   {
-    "slug": "sandalwood-tablets",
     "id": "prod15",
+    "slug": "sandalwood-tablets",
     "name": "Sandalwood Tablets",
     "description": "Pure sandalwood tablets for pooja and aromatherapy. Offers rich fragrance and traditional sanctity.",
     "category": "powders",
     "stock": 60,
-    "images": [
-      "/images/sandalwood-tablets.jpg"
-    ]
+    "images": ["/images/sandalwood-tablets.jpg"]
   },
   {
-    "slug": "virali-manjal",
     "id": "prod16",
+    "slug": "virali-manjal",
     "name": "Virali Manjal",
     "description": "Turmeric root used for digestive wellness, acne treatment, and immune support in Ayurvedic medicine.",
     "category": "powders",
     "stock": 52,
-    "images": [
-      "/images/virali-manjal.jpg"
-    ]
+    "images": ["/images/virali-manjal.jpg"]
   },
   {
-    "slug": "kizhangu-manjal",
     "id": "prod17",
+    "slug": "kizhangu-manjal",
     "name": "Kizhangu Manjal",
     "description": "Pure turmeric root with antibacterial properties. Symbolizes purity and is used in pooja and skincare.",
     "category": "powders",
     "stock": 79,
-    "images": [
-      "/images/kizhangu-manjal.jpg"
-    ]
+    "images": ["/images/kizhangu-manjal.jpg"]
   },
   {
-    "slug": "dhoop-cup",
     "id": "prod18",
+    "slug": "dhoop-cup",
     "name": "Dhoop Cup",
     "description": "Natural herbal dhoop cups made from sambrani and resins. Creates a calming aroma for pooja and meditation.",
     "category": "fragrances",
     "stock": 69,
-    "images": [
-      "/images/dhoop-cup.jpg"
-    ]
+    "images": ["/images/dhoop-cup.jpg"]
   },
   {
-    "slug": "dasangam",
     "id": "prod19",
+    "slug": "dasangam",
     "name": "Dasangam",
     "description": "Divine blend of rose, sandal, and homam herbs made from 108 sacred materials. Enhances purity of rituals.",
     "category": "fragrances",
     "stock": 74,
-    "images": [
-      "/images/dasangam.jpg"
-    ]
+    "images": ["/images/dasangam.jpg"]
   },
   {
-    "slug": "panchakavya-dhoop-cup",
     "id": "prod20",
+    "slug": "panchakavya-dhoop-cup",
     "name": "Panchakavya Dhoop Cup",
     "description": "Traditional blend of five sacred cow-based ingredients. Purifies the air and enhances meditation focus.",
     "category": "fragrances",
     "stock": 92,
-    "images": [
-      "/images/panchakavya-dhoop-cup.jpg"
-    ]
+    "images": ["/images/panchakavya-dhoop-cup.jpg"]
   },
   {
-    "slug": "sambrani",
     "id": "prod21",
+    "slug": "sambrani",
     "name": "Sambrani",
     "description": "Natural herbal incense made with loban and Ayurvedic ingredients. Used in home and temple rituals.",
     "category": "fragrances",
     "stock": 77,
-    "images": [
-      "/images/sambrani.jpg"
-    ]
+    "images": ["/images/sambrani.jpg"]
   },
   {
-    "slug": "green-camphor",
     "id": "prod22",
+    "slug": "green-camphor",
     "name": "Green Camphor",
     "description": "Natural Pachai Karpooram used in pooja and Ayurveda for purification, relaxation, and spiritual upliftment.",
     "category": "fragrances",
     "stock": 65,
-    "images": [
-      "/images/green-camphor.jpg"
-    ]
+    "images": ["/images/green-camphor.jpg"]
   },
   {
-    "slug": "incense-sticks",
     "id": "prod23",
+    "slug": "incense-sticks",
     "name": "Incense Sticks / Agarbatti",
     "description": "Enhances focus, purifies air, and calms the mind. Perfect for meditation, study, and spiritual practice.",
     "category": "fragrances",
     "stock": 82,
-    "images": [
-      "/images/incense-sticks.jpg"
-    ]
+    "images": ["/images/incense-sticks.jpg"]
   },
   {
-    "slug": "camphor-katti",
     "id": "prod24",
+    "slug": "camphor-katti",
     "name": "Camphor Katti",
     "description": "Pure camphor blocks ideal for homams and aarti. Smoke-free burning with a strong divine aroma.",
     "category": "fragrances",
     "stock": 71,
-    "images": [
-      "/images/camphor-katti.jpg"
-    ]
+    "images": ["/images/camphor-katti.jpg"]
   },
   {
-    "slug": "neem-oil",
     "id": "prod25",
+    "slug": "neem-oil",
     "name": "Neem Oil",
     "description": "Multi-purpose oil for skin, hair, and natural healing. Rich in antifungal and antibacterial properties.",
     "category": "oils",
     "stock": 66,
-    "images": [
-      "/images/neem-oil.jpg"
-    ]
+    "images": ["/images/neem-oil.jpg"]
   },
   {
-    "slug": "vilaku-ghee",
     "id": "prod26",
+    "slug": "vilaku-ghee",
     "name": "Vilaku Ghee",
     "description": "Pure ghee for lamp lighting, dispelling negativity and invoking positive vibrations.",
     "category": "oils",
     "stock": 59,
-    "images": [
-      "/images/vilaku-ghee.jpg"
-    ]
+    "images": ["/images/vilaku-ghee.jpg"]
   },
   {
-    "slug": "mahua-seed-oil",
     "id": "prod27",
+    "slug": "mahua-seed-oil",
     "name": "Mahua Seed Oil (Ilupai Oil)",
     "description": "Ayurvedic oil for joint pain and hair growth. Provides relief and nourishment naturally.",
     "category": "oils",
     "stock": 70,
-    "images": [
-      "/images/mahua-seed-oil.jpg"
-    ]
+    "images": ["/images/mahua-seed-oil.jpg"]
   },
   {
-    "slug": "puja-ghee",
     "id": "prod28",
+    "slug": "puja-ghee",
     "name": "Puja Ghee",
     "description": "Pure desi ghee used in lamps and prasadam. Symbol of purity, auspiciousness, and longevity.",
     "category": "oils",
     "stock": 80,
-    "images": [
-      "/images/puja-ghee.jpg"
-    ]
+    "images": ["/images/puja-ghee.jpg"]
   },
   {
-    "slug": "pancha-deepam-oil",
     "id": "prod29",
+    "slug": "pancha-deepam-oil",
     "name": "Pancha Deepam Oil / Lamp Oil",
     "description": "Blend of five sacred oils for lighting diyas and enhancing spiritual energy during rituals.",
     "category": "oils",
     "stock": 88,
-    "images": [
-      "/images/pancha-deepam-oil.jpg"
-    ]
+    "images": ["/images/pancha-deepam-oil.jpg"]
   },
   {
-    "slug": "deepam-lamp-oil",
     "id": "prod30",
+    "slug": "deepam-lamp-oil",
     "name": "Deepam Lamp Oil",
     "description": "Unique blend of pure oils that promote divinity and positivity during pooja and meditation.",
     "category": "oils",
     "stock": 76,
-    "images": [
-      "/images/deepam-lamp-oil.jpg"
-    ]
+    "images": ["/images/deepam-lamp-oil.jpg"]
   },
   {
-    "slug": "rose-water",
     "id": "prod31",
+    "slug": "rose-water",
     "name": "Rose Water (Paneer)",
     "description": "Pure rose-scented water for abhishekam, pooja, and ceremonies. Offers natural fragrance and purity.",
     "category": "oils",
     "stock": 67,
-    "images": [
-      "/images/rose-water.jpg"
-    ]
+    "images": ["/images/rose-water.jpg"]
   },
   {
-    "slug": "cotton-wicks-green",
     "id": "prod32",
+    "slug": "cotton-wicks-green",
     "name": "Cotton Wicks – Green",
     "description": "Eco-friendly hand-rolled cotton wicks dyed with plant-based colors. Burn cleanly with steady flame and minimal smoke, perfect for daily pooja.",
     "category": "accessories",
     "stock": 84,
-    "images": [
-      "/images/cotton-wicks-green.jpg"
-    ]
+    "images": ["/images/cotton-wicks-green.jpg"]
   },
   {
-    "slug": "cotton-wicks",
     "id": "prod33",
+    "slug": "cotton-wicks",
     "name": "Cotton Wicks",
     "description": "Premium handmade cotton wicks offering steady, smokeless flames. Ideal for diyas, lamps, and all pooja rituals.",
     "category": "accessories",
     "stock": 95,
-    "images": [
-      "/images/cotton-wicks.jpg"
-    ]
+    "images": ["/images/cotton-wicks.jpg"]
   },
   {
-    "slug": "vaazhai-thandu-thiri",
     "id": "prod34",
+    "slug": "vaazhai-thandu-thiri",
     "name": "Vaazhai Thandu Thiri",
     "description": "Natural banana stem wicks made from inner fibers, biodegradable and eco-friendly. Provide steady burn for spiritual rituals.",
     "category": "accessories",
     "stock": 61,
-    "images": [
-      "/images/vaazhai-thandu-thiri.jpg"
-    ]
+    "images": ["/images/vaazhai-thandu-thiri.jpg"]
   },
   {
-    "slug": "mupari-nool",
     "id": "prod35",
+    "slug": "mupari-nool",
     "name": "Mupari Nool",
     "description": "Sacred thread essential for various pooja activities. Symbol of purity, good fortune, and positive energy.",
     "category": "accessories",
     "stock": 57,
-    "images": [
-      "/images/mupari-nool.jpg"
-    ]
+    "images": ["/images/mupari-nool.jpg"]
   },
   {
-    "slug": "cotton-wicks-black",
     "id": "prod36",
+    "slug": "cotton-wicks-black",
     "name": "Cotton Wicks – Black",
     "description": "Used for northern-facing lamps symbolizing wealth and protection. Handmade cotton wicks for traditional deepam lighting.",
     "category": "accessories",
     "stock": 79,
-    "images": [
-      "/images/cotton-wicks-black.jpg"
-    ]
+    "images": ["/images/cotton-wicks-black.jpg"]
   },
   {
-    "slug": "cotton-wicks-red",
     "id": "prod37",
+    "slug": "cotton-wicks-red",
     "name": "Cotton Wicks – Red",
     "description": "Auspicious red cotton wicks symbolizing energy and devotion. Perfect for temples, homes, and festive poojas.",
     "category": "accessories",
     "stock": 72,
-    "images": [
-      "/images/cotton-wicks-red.jpg"
-    ]
+    "images": ["/images/cotton-wicks-red.jpg"]
   },
   {
-    "slug": "cotton-wicks-yellow",
     "id": "prod38",
+    "slug": "cotton-wicks-yellow",
     "name": "Cotton Wicks – Yellow",
     "description": "Sacred yellow wicks for Guru Bhagwan and Murugan worship. Lighting on Thursdays is believed to attract wealth and wisdom.",
     "category": "accessories",
     "stock": 64,
-    "images": [
-      "/images/cotton-wicks-yellow.jpg"
-    ]
+    "images": ["/images/cotton-wicks-yellow.jpg"]
   },
   {
-    "slug": "thamarai-thiri",
     "id": "prod39",
+    "slug": "thamarai-thiri",
     "name": "Thamarai Thiri",
     "description": "Lotus-shaped wicks for lamps symbolizing purity and enlightenment. Used in rituals to invite prosperity and wisdom.",
     "category": "accessories",
     "stock": 53,
-    "images": [
-      "/images/thamarai-thiri.jpg"
-    ]
+    "images": ["/images/thamarai-thiri.jpg"]
   },
   {
-    "slug": "namakatti",
     "id": "prod40",
+    "slug": "namakatti",
     "name": "Namakatti",
     "description": "Cooling white clay tilak applied on forehead to balance energy and protect from negative forces.",
     "category": "accessories",
     "stock": 66,
-    "images": [
-      "/images/namakatti.jpg"
-    ]
+    "images": ["/images/namakatti.jpg"]
   },
   {
-    "slug": "abishegam-powder",
     "id": "prod41",
+    "slug": "abishegam-powder",
     "name": "Abishegam Powder",
     "description": "Blend of 108 herbs used in Abhishekam rituals to purify idols and elevate spiritual vibrations.",
     "category": "powders",
     "stock": 71,
-    "images": [
-      "/images/abishegam-powder.jpg"
-    ]
+    "images": ["/images/abishegam-powder.jpg"]
   },
   {
-    "slug": "theertha-powder",
     "id": "prod42",
+    "slug": "theertha-powder",
     "name": "Theertha Powder",
     "description": "Sacred mix of cardamom, cloves, and herbs to instantly transform water into divine Theertham for puja.",
     "category": "powders",
     "stock": 59,
-    "images": [
-      "/images/theertha-powder.jpg"
-    ]
+    "images": ["/images/theertha-powder.jpg"]
   },
   {
-    "slug": "punugu",
     "id": "prod43",
+    "slug": "punugu",
     "name": "Punugu",
     "description": "Traditional fragrant paste offered to Lord Balaji. Believed to increase energy and spiritual awareness.",
     "category": "powders",
     "stock": 46,
-    "images": [
-      "/images/punugu.jpg"
-    ]
+    "images": ["/images/punugu.jpg"]
   },
   {
-    "slug": "vibhuti",
     "id": "prod44",
+    "slug": "vibhuti",
     "name": "Vibhuti",
     "description": "Sacred ash used in blessings and rituals for protection and purification. Symbol of Shiva’s divine energy.",
     "category": "powders",
     "stock": 91,
-    "images": [
-      "/images/vibhuti.jpg"
-    ]
+    "images": ["/images/vibhuti.jpg"]
   },
   {
-    "slug": "sandal-malai",
     "id": "prod45",
+    "slug": "sandal-malai",
     "name": "Sandal Malai",
     "description": "Sandalwood and cream blend that rejuvenates skin and offers cooling, anti-inflammatory benefits.",
     "category": "accessories",
     "stock": 39,
-    "images": [
-      "/images/sandal-malai.jpg"
-    ]
+    "images": ["/images/sandal-malai.jpg"]
   },
   {
-    "slug": "tulasi-malai",
     "id": "prod46",
+    "slug": "tulasi-malai",
     "name": "Tulasi Malai",
     "description": "Sacred white Tulasi garland promoting calmness, devotion, and protection from negative energies.",
     "category": "accessories",
     "stock": 43,
-    "images": [
-      "/images/tulasi-malai.jpg"
-    ]
+    "images": ["/images/tulasi-malai.jpg"]
   },
   {
-    "slug": "rudraksha-malai",
     "id": "prod47",
+    "slug": "rudraksha-malai",
     "name": "Rudraksha Malai",
     "description": "Spiritual mala that enhances meditation, reduces stress, and offers divine protection and clarity.",
     "category": "accessories",
     "stock": 58,
-    "images": [
-      "/images/rudraksha-malai.jpg"
-    ]
+    "images": ["/images/rudraksha-malai.jpg"]
   },
   {
-    "slug": "darbai-grass",
     "id": "prod48",
+    "slug": "darbai-grass",
     "name": "Darbai Grass",
     "description": "Sacred Kusha grass used in rituals to preserve positive energy and enhance mantra vibrations.",
     "category": "accessories",
     "stock": 74,
-    "images": [
-      "/images/darbai-grass.jpg"
-    ]
+    "images": ["/images/darbai-grass.jpg"]
   },
   {
-    "slug": "pooja-vessel-cleaning-powder",
     "id": "prod49",
+    "slug": "pooja-vessel-cleaning-powder",
     "name": "Pooja Vessel Cleaning Powder",
     "description": "Removes oil, stains, and tarnish from brass and copper vessels while maintaining shine and sanctity.",
     "category": "accessories",
     "stock": 67,
-    "images": [
-      "/images/pooja-vessel-cleaning-powder.jpg"
-    ]
+    "images": ["/images/pooja-vessel-cleaning-powder.jpg"]
   },
   {
-    "slug": "nelpori",
     "id": "prod50",
+    "slug": "nelpori",
     "name": "Nelpori",
     "description": "Puffed rice used in homams and rituals symbolizing prosperity, devotion, and divine blessings.",
     "category": "accessories",
     "stock": 80,
-    "images": [
-      "/images/nelpori.jpg"
-    ]
+    "images": ["/images/nelpori.jpg"]
   },
   {
-    "slug": "navadhanyam-set",
     "id": "prod51",
+    "slug": "navadhanyam-set",
     "name": "Navadhanyam Set",
     "description": "Mixture of nine sacred grains representing prosperity, health, and abundance in rituals and festivals.",
     "category": "accessories",
     "stock": 88,
-    "images": [
-      "/images/navadhanyam-set.jpg"
-    ]
+    "images": ["/images/navadhanyam-set.jpg"]
   },
   {
-    "slug": "attar",
     "id": "prod52",
+    "slug": "attar",
     "name": "Attar",
     "description": "Natural perfume oils including Javadhu, Musk, Rose, and more. Long-lasting, divine fragrance for prayer or daily wear.",
     "category": "fragrances",
     "stock": 52,
-    "images": [
-      "/images/attar.jpg"
-    ]
+    "images": ["/images/attar.jpg"]
   },
   {
-    "slug": "javadhu-powder",
     "id": "prod53",
+    "slug": "javadhu-powder",
     "name": "Javadhu Powder",
     "description": "Traditional herbal perfume powder made from pure herbs with enchanting, long-lasting fragrance.",
     "category": "fragrances",
     "stock": 69,
-    "images": [
-      "/images/javadhu-powder.jpg"
-    ]
+    "images": ["/images/javadhu-powder.jpg"]
   },
   {
-    "slug": "kolam-powder",
     "id": "prod54",
+    "slug": "kolam-powder",
     "name": "Kolam Powder",
     "description": "Used for sacred kolam designs symbolizing peace and positivity. Promotes focus and inner calm.",
     "category": "accessories",
     "stock": 86,
-    "images": [
-      "/images/kolam-powder.jpg"
-    ]
+    "images": ["/images/kolam-powder.jpg"]
   },
   {
-    "slug": "sandhanadi-thailam",
     "id": "prod55",
+    "slug": "sandhanadi-thailam",
     "name": "Sandhanadi Thailam",
     "description": "Cooling Ayurvedic oil that relieves burning sensations, dizziness, and insomnia. Ideal for head and body massage.",
     "category": "oils",
     "stock": 73,
-    "images": [
-      "/images/sandhanadi-thailam.jpg"
-    ]
+    "images": ["/images/sandhanadi-thailam.jpg"]
   }
 ]
