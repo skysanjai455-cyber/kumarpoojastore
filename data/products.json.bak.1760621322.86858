@@ -1,0 +1,1265 @@
+[
+  {
+    "slug": "gopuram-meenakshi-kumkum",
+    "id": "prod1",
+    "name": "Gopuram Meenakshi Kumkum",
+    "description": "Our Kumkum is a premium, natural vermilion powder made from the finest ingredients, traditionally used in Hindu rituals and celebrations...",
+    "category": "powders",
+    "stock": 67,
+    "images": [
+      "/images/gopuram-meenakshi-kumkum.jpg",
+      "/products/gopuram-meenakshi-kumkum.jpg"
+    ]
+  },
+  {
+    "slug": "aragaja",
+    "id": "prod2",
+    "name": "Aragaja",
+    "description": "A mesmerizing black exotic paste made from natural ingredients. Commonly used to offer to Devi during tantric rituals...",
+    "category": "powders",
+    "stock": 54,
+    "images": [
+      "/images/aragaja.jpg",
+      "/products/aragaja.jpg"
+    ]
+  },
+  {
+    "slug": "thazhampoo-kumkum",
+    "id": "prod3",
+    "name": "Thazhampoo Kumkum",
+    "description": "Original and Fresh Thalampoo Kungumam with smooth Thalampoo (Screw Pine flower) Fragrance...",
+    "category": "powders",
+    "stock": 89,
+    "images": [
+      "/images/thazhampoo-kumkum.jpg",
+      "/products/thazhampoo-kumkum.jpg"
+    ]
+  },
+  {
+    "slug": "ven-kadugu",
+    "id": "prod4",
+    "name": "Ven Kadugu",
+    "description": "Ven Kadugu is a premium mustard seed known for purity, aroma, and natural health benefits...",
+    "category": "powders",
+    "stock": 41,
+    "images": [
+      "/images/ven-kadugu.jpg",
+      "/products/ven-kadugu.jpg"
+    ]
+  },
+  {
+    "slug": "padikaram",
+    "id": "prod5",
+    "name": "Padikaram",
+    "description": "Used as an antipyretic, antiseptic, antispasmodic, and hemostytic in several medicinal systems...",
+    "category": "powders",
+    "stock": 76,
+    "images": [
+      "/images/padikaram.jpg",
+      "/products/padikaram.jpg"
+    ]
+  },
+  {
+    "slug": "paruthi-vidhai",
+    "id": "prod6",
+    "name": "Paruthi Vidhai",
+    "description": "Maintains blood pressure, heals stomach ulcer, treats cold & cough, regulates menstrual cycle...",
+    "category": "powders",
+    "stock": 50,
+    "images": [
+      "/images/paruthi-vidhai.jpg",
+      "/products/paruthi-vidhai.jpg"
+    ]
+  },
+  {
+    "slug": "vetiver",
+    "id": "prod7",
+    "name": "Vetiver",
+    "description": "Vetiver root water cools the body, cures ulcers and bad breath, and purifies blood...",
+    "category": "powders",
+    "stock": 58,
+    "images": [
+      "/images/vetiver.jpg",
+      "/products/vetiver.jpg"
+    ]
+  },
+  {
+    "slug": "neeli-avuri",
+    "id": "prod8",
+    "name": "Neeli Avuri",
+    "description": "Premium herbal powder made from Indigofera tinctoria leaves, strengthens hair and detoxifies...",
+    "category": "powders",
+    "stock": 62,
+    "images": [
+      "/images/neeli-avuri.jpg",
+      "/products/neeli-avuri.jpg"
+    ]
+  },
+  {
+    "slug": "nalangu-maavu",
+    "id": "prod9",
+    "name": "Nalangu Maavu",
+    "description": "Traditional herbal bath powder with turmeric, sandalwood, and other botanicals for glowing skin...",
+    "category": "powders",
+    "stock": 85,
+    "images": [
+      "/images/nalangu-maavu.jpg",
+      "/products/nalangu-maavu.jpg"
+    ]
+  },
+  {
+    "slug": "shikakai-powder",
+    "id": "prod10",
+    "name": "Shikakai Powder",
+    "description": "Natural hair cleanser and conditioner made from 100% dried shikakai pods...",
+    "category": "powders",
+    "stock": 90,
+    "images": [
+      "/images/shikakai-powder.jpg",
+      "/products/shikakai-powder.jpg"
+    ]
+  },
+  {
+    "slug": "turmeric-powder",
+    "id": "prod11",
+    "name": "Turmeric Powder",
+    "description": "Pure pooja turmeric symbolizing prosperity and positivity, ideal for daily rituals and festivals...",
+    "category": "powders",
+    "stock": 64,
+    "images": [
+      "/images/turmeric-powder.jpg",
+      "/products/turmeric-powder.jpg"
+    ]
+  },
+  {
+    "slug": "kasthuri-turmeric-powder",
+    "id": "prod12",
+    "name": "Kasthuri Turmeric Powder",
+    "description": "Popular among women for removing pimples and for pooja purposes...",
+    "category": "powders",
+    "stock": 73,
+    "images": [
+      "/images/kasthuri-turmeric-powder.jpg",
+      "/products/kasthuri-turmeric-powder.jpg"
+    ]
+  },
+  {
+    "slug": "chandan-powder",
+    "id": "prod13",
+    "name": "Chandan Powder",
+    "description": "Premium natural sandalwood powder used in pooja, meditation, and rituals...",
+    "category": "powders",
+    "stock": 47,
+    "images": [
+      "/images/chandan-powder.jpg",
+      "/products/chandan-powder.jpg"
+    ]
+  },
+  {
+    "slug": "chandan-tikka-paste",
+    "id": "prod14",
+    "name": "Chandan Tikka Paste",
+    "description": "Turmeric-rich paste for reducing inflammation, aiding digestion, and spiritual application...",
+    "category": "powders",
+    "stock": 55,
+    "images": [
+      "/images/chandan-tikka-paste.jpg",
+      "/products/chandan-tikka-paste.jpg"
+    ]
+  },
+  {
+    "slug": "sandalwood-tablets",
+    "id": "prod15",
+    "name": "Sandalwood Tablets",
+    "description": "Pure sandalwood tablets with rich fragrance, ideal for pooja rooms and remedies...",
+    "category": "powders",
+    "stock": 60,
+    "images": [
+      "/images/sandalwood-tablets.jpg",
+      "/products/sandalwood-tablets.jpg"
+    ]
+  },
+  {
+    "slug": "virali-manjal",
+    "id": "prod16",
+    "name": "Virali Manjal",
+    "description": "Stimulant turmeric root used as a stomach tonic and acne treatment...",
+    "category": "powders",
+    "stock": 45,
+    "images": [
+      "/images/virali-manjal.jpg",
+      "/products/virali-manjal.jpg"
+    ]
+  },
+  {
+    "slug": "kizhangu-manjal",
+    "id": "prod17",
+    "name": "Kizhangu Manjal",
+    "description": "Pure turmeric root symbolizing purity and used for antibacterial treatments...",
+    "category": "powders",
+    "stock": 81,
+    "images": [
+      "/images/kizhangu-manjal.jpg",
+      "/products/kizhangu-manjal.jpg"
+    ]
+  },
+  {
+    "slug": "dhoop-cup",
+    "id": "prod18",
+    "name": "Dhoop Cup",
+    "description": "Natural dhoop cups made from herbal resins and sambrani, ideal for daily pooja and meditation...",
+    "category": "fragrances",
+    "stock": 59,
+    "images": [
+      "/images/dhoop-cup.jpg",
+      "/products/dhoop-cup.jpg"
+    ]
+  },
+  {
+    "slug": "dasangam",
+    "id": "prod19",
+    "name": "Dasangam",
+    "description": "Divine aromatic blend of rose, homam, and sandal for puja and rituals...",
+    "category": "fragrances",
+    "stock": 36,
+    "images": [
+      "/images/dasangam.jpg",
+      "/products/dasangam.jpg"
+    ]
+  },
+  {
+    "slug": "panchakavya-dhoop-cup",
+    "id": "prod20",
+    "name": "Panchakavya Dhoop Cup",
+    "description": "Made from five sacred cow-based ingredients for purifying and spiritual enhancement...",
+    "category": "fragrances",
+    "stock": 92,
+    "images": [
+      "/images/panchakavya-dhoop-cup.jpg",
+      "/products/panchakavya-dhoop-cup.jpg"
+    ]
+  },
+  {
+    "slug": "sambrani",
+    "id": "prod21",
+    "name": "Sambrani",
+    "description": "Natural herbal incense with antiseptic and aromatic properties, ideal for home and temples...",
+    "category": "fragrances",
+    "stock": 77,
+    "images": [
+      "/images/sambrani.jpg",
+      "/products/sambrani.jpg"
+    ]
+  },
+  {
+    "slug": "green-camphor",
+    "id": "prod22",
+    "name": "Green Camphor",
+    "description": "Natural Pachai Karpooram used in pooja, meditation, and Ayurvedic treatments...",
+    "category": "fragrances",
+    "stock": 69,
+    "images": [
+      "/images/green-camphor.jpg",
+      "/products/green-camphor.jpg"
+    ]
+  },
+  {
+    "slug": "incense-sticks",
+    "id": "prod23",
+    "name": "Incense Sticks / Agarbatti",
+    "description": "Enhances concentration, relieves anxiety, and purifies the air during rituals...",
+    "category": "fragrances",
+    "stock": 86,
+    "images": [
+      "/images/incense-sticks.jpg",
+      "/products/incense-sticks.jpg"
+    ]
+  },
+  {
+    "slug": "camphor-katti",
+    "id": "prod24",
+    "name": "Camphor Katti",
+    "description": "Pure camphor blocks ideal for homams and aarti with long-lasting fragrance...",
+    "category": "fragrances",
+    "stock": 63,
+    "images": [
+      "/images/camphor-katti.jpg",
+      "/products/camphor-katti.jpg"
+    ]
+  },
+  {
+    "slug": "neem-oil",
+    "id": "prod25",
+    "name": "Neem Oil",
+    "description": "Multi-purpose oil for skin, hair, and natural healing with antifungal properties...",
+    "category": "oils",
+    "stock": 48,
+    "images": [
+      "/images/neem-oil.jpg",
+      "/products/neem-oil.jpg"
+    ]
+  },
+  {
+    "slug": "vilaku-ghee",
+    "id": "prod26",
+    "name": "Vilaku Ghee",
+    "description": "Pure ghee for lamp lighting, symbolizing positivity and spiritual clarity...",
+    "category": "oils",
+    "stock": 55,
+    "images": [
+      "/images/vilaku-ghee.jpg",
+      "/products/vilaku-ghee.jpg"
+    ]
+  },
+  {
+    "slug": "mahua-seed-oil",
+    "id": "prod27",
+    "name": "Mahua Seed Oil (Ilupai Oil)",
+    "description": "Ayurvedic oil used for joint pain and hair growth, rich in nutrients...",
+    "category": "oils",
+    "stock": 70,
+    "images": [
+      "/images/mahua-seed-oil.jpg",
+      "/products/mahua-seed-oil.jpg"
+    ]
+  },
+  {
+    "slug": "puja-ghee",
+    "id": "prod28",
+    "name": "Puja Ghee",
+    "description": "Pure desi ghee used in lamps and prasadam for auspicious rituals...",
+    "category": "oils",
+    "stock": 80,
+    "images": [
+      "/images/puja-ghee.jpg",
+      "/products/puja-ghee.jpg"
+    ]
+  },
+  {
+    "slug": "pancha-deepam-oil",
+    "id": "prod29",
+    "name": "Pancha Deepam Oil / Lamp Oil",
+    "description": "Traditional blend of 5 sacred oils for lighting diyas and purifying spaces...",
+    "category": "oils",
+    "stock": 93,
+    "images": [
+      "/images/pancha-deepam-oil.jpg",
+      "/products/pancha-deepam-oil.jpg"
+    ]
+  },
+  {
+    "slug": "deepam-lamp-oil",
+    "id": "prod30",
+    "name": "Deepam Lamp Oil",
+    "description": "Blend of five pure oils and fragrances that enhance the divine experience during pooja and meditation.",
+    "category": "oils",
+    "stock": 74,
+    "images": [
+      "/images/deepam-lamp-oil.jpg",
+      "/products/deepam-lamp-oil.jpg"
+    ]
+  },
+  {
+    "slug": "rose-water",
+    "id": "prod31",
+    "name": "Rose Water (Paneer)",
+    "description": "Pure rose-scented water used for abhishekam, pooja, and auspicious occasions; offers a pleasant aroma and purifying touch.",
+    "category": "oils",
+    "stock": 68,
+    "images": [
+      "/images/rose-water.jpg",
+      "/products/rose-water.jpg"
+    ]
+  },
+  {
+    "slug": "cotton-wicks-green",
+    "id": "prod32",
+    "name": "Cotton Wicks – Green",
+    "description": "Eco-friendly hand-rolled cotton wicks dyed with plant-based colors; steady flame and minimal smoke.",
+    "category": "accessories",
+    "stock": 84,
+    "images": [
+      "/images/cotton-wicks-green.jpg",
+      "/products/cotton-wicks-green.jpg"
+    ]
+  },
+  {
+    "slug": "cotton-wicks",
+    "id": "prod33",
+    "name": "Cotton Wicks",
+    "description": "Premium natural cotton wicks for clean, long-lasting burn in diyas and lamps; handmade and chemical-free.",
+    "category": "accessories",
+    "stock": 95,
+    "images": [
+      "/images/cotton-wicks.jpg",
+      "/products/cotton-wicks.jpg"
+    ]
+  },
+  {
+    "slug": "vaazhai-thandu-thiri",
+    "id": "prod34",
+    "name": "Vaazhai Thandu Thiri",
+    "description": "Banana-stem wicks made from inner core fibers; biodegradable, renewable, and steady-burning for rituals.",
+    "category": "accessories",
+    "stock": 61,
+    "images": [
+      "/images/vaazhai-thandu-thiri.jpg",
+      "/products/vaazhai-thandu-thiri.jpg"
+    ]
+  },
+  {
+    "slug": "mupari-nool",
+    "id": "prod35",
+    "name": "Mupari Nool",
+    "description": "Sacred thread used in various puja activities to invoke positive energy and good fortune.",
+    "category": "accessories",
+    "stock": 57,
+    "images": [
+      "/images/mupari-nool.jpg",
+      "/products/mupari-nool.jpg"
+    ]
+  },
+  {
+    "slug": "cotton-wicks-black",
+    "id": "prod36",
+    "name": "Cotton Wicks – Black",
+    "description": "Symbolic wicks representing purity and protection; ideal for northern-facing lamps invoking prosperity.",
+    "category": "accessories",
+    "stock": 79,
+    "images": [
+      "/images/cotton-wicks-black.jpg",
+      "/products/cotton-wicks-black.jpg"
+    ]
+  },
+  {
+    "slug": "cotton-wicks-red",
+    "id": "prod37",
+    "name": "Cotton Wicks – Red",
+    "description": "Auspicious red cotton wicks signifying energy and devotion; perfect for temples and festivals.",
+    "category": "accessories",
+    "stock": 72,
+    "images": [
+      "/images/cotton-wicks-red.jpg",
+      "/products/cotton-wicks-red.jpg"
+    ]
+  },
+  {
+    "slug": "cotton-wicks-yellow",
+    "id": "prod38",
+    "name": "Cotton Wicks – Yellow",
+    "description": "Associated with Lord Guru Bhagwan; lighting on Thursdays is believed to attract wealth and wisdom.",
+    "category": "accessories",
+    "stock": 64,
+    "images": [
+      "/images/cotton-wicks-yellow.jpg",
+      "/products/cotton-wicks-yellow.jpg"
+    ]
+  },
+  {
+    "slug": "thamarai-thiri",
+    "id": "prod39",
+    "name": "Thamarai Thiri",
+    "description": "Lotus-shaped wicks used for deepam lighting; symbolize purity and the removal of darkness.",
+    "category": "accessories",
+    "stock": 53,
+    "images": [
+      "/images/thamarai-thiri.jpg",
+      "/products/thamarai-thiri.jpg"
+    ]
+  },
+  {
+    "slug": "namakatti",
+    "id": "prod40",
+    "name": "Namakatti",
+    "description": "Cooling white clay tilak that protects energy and balances the body’s electromagnetic field.",
+    "category": "accessories",
+    "stock": 66,
+    "images": [
+      "/images/namakatti.jpg",
+      "/products/namakatti.jpg"
+    ]
+  },
+  {
+    "slug": "abishegam-powder",
+    "id": "prod41",
+    "name": "Abishegam Powder",
+    "description": "Blend of 108 herbs for Abhishekam rituals; purifies idols and fills surroundings with soothing aroma.",
+    "category": "powders",
+    "stock": 71,
+    "images": [
+      "/images/abishegam-powder.jpg",
+      "/products/abishegam-powder.jpg"
+    ]
+  },
+  {
+    "slug": "theertha-powder",
+    "id": "prod42",
+    "name": "Theertha Powder",
+    "description": "Transforms water into sacred theertham instantly; made from cardamom, cloves, and herbs.",
+    "category": "powders",
+    "stock": 59,
+    "images": [
+      "/images/theertha-powder.jpg",
+      "/products/theertha-powder.jpg"
+    ]
+  },
+  {
+    "slug": "punugu",
+    "id": "prod43",
+    "name": "Punugu",
+    "description": "Traditional fragrant paste offered to Lord Balaji; applied on forehead for victory and energy.",
+    "category": "powders",
+    "stock": 46,
+    "images": [
+      "/images/punugu.jpg",
+      "/products/punugu.jpg"
+    ]
+  },
+  {
+    "slug": "vibhuti",
+    "id": "prod44",
+    "name": "Vibhuti",
+    "description": "Sacred ash believed to heal and protect; used for blessings and spiritual purification.",
+    "category": "powders",
+    "stock": 91,
+    "images": [
+      "/images/vibhuti.jpg",
+      "/products/vibhuti.jpg"
+    ]
+  },
+  {
+    "slug": "sandal-malai",
+    "id": "prod45",
+    "name": "Sandal Malai",
+    "description": "Mixture of sandalwood and cream that rejuvenates skin and promotes an even complexion.",
+    "category": "accessories",
+    "stock": 39,
+    "images": [
+      "/images/sandal-malai.jpg",
+      "/products/sandal-malai.jpg"
+    ]
+  },
+  {
+    "slug": "tulasi-malai",
+    "id": "prod46",
+    "name": "Tulasi Malai",
+    "description": "White Tulasi garland known for spiritual protection, stress relief, and natural fragrance.",
+    "category": "accessories",
+    "stock": 43,
+    "images": [
+      "/images/tulasi-malai.jpg",
+      "/products/tulasi-malai.jpg"
+    ]
+  },
+  {
+    "slug": "rudraksha-malai",
+    "id": "prod47",
+    "name": "Rudraksha Malai",
+    "description": "Sacred beads that aid meditation, reduce stress, and offer protection from negativity.",
+    "category": "accessories",
+    "stock": 58,
+    "images": [
+      "/images/rudraksha-malai.jpg",
+      "/products/rudraksha-malai.jpg"
+    ]
+  },
+  {
+    "slug": "darbai-grass",
+    "id": "prod48",
+    "name": "Darbai Grass",
+    "description": "Kusha grass used in rituals to preserve positive energy and conduct mantras effectively.",
+    "category": "accessories",
+    "stock": 74,
+    "images": [
+      "/images/darbai-grass.jpg",
+      "/products/darbai-grass.jpg"
+    ]
+  },
+  {
+    "slug": "pooja-vessel-cleaning-powder",
+    "id": "prod49",
+    "name": "Pooja Vessel Cleaning Powder",
+    "description": "Removes oil and tarnish from copper, brass, and steel pooja vessels; restores shine safely.",
+    "category": "accessories",
+    "stock": 67,
+    "images": [
+      "/images/pooja-vessel-cleaning-powder.jpg",
+      "/products/pooja-vessel-cleaning-powder.jpg"
+    ]
+  },
+  {
+    "slug": "nelpori",
+    "id": "prod50",
+    "name": "Nelpori",
+    "description": "Puffed rice used in homams and rituals symbolizing prosperity and devotion.",
+    "category": "accessories",
+    "stock": 80,
+    "images": [
+      "/images/nelpori.jpg",
+      "/products/nelpori.jpg"
+    ]
+  },
+  {
+    "slug": "navadhanyam-set",
+    "id": "prod51",
+    "name": "Navadhanyam Set",
+    "description": "Mixture of nine sacred grains representing prosperity, health, and abundance in rituals.",
+    "category": "accessories",
+    "stock": 88,
+    "images": [
+      "/images/navadhanyam-set.jpg",
+      "/products/navadhanyam-set.jpg"
+    ]
+  },
+  {
+    "slug": "attar",
+    "id": "prod52",
+    "name": "Attar",
+    "description": "Natural perfume oils including Javadhu, Musk, Rose, and more—long-lasting and divine aroma.",
+    "category": "fragrances",
+    "stock": 52,
+    "images": [
+      "/images/attar.jpg",
+      "/products/attar.jpg"
+    ]
+  },
+  {
+    "slug": "javadhu-powder",
+    "id": "prod53",
+    "name": "Javadhu Powder",
+    "description": "Traditional herbal perfume powder made from natural herbs with enchanting fragrance.",
+    "category": "fragrances",
+    "stock": 69,
+    "images": [
+      "/images/javadhu-powder.jpg",
+      "/products/javadhu-powder.jpg"
+    ]
+  },
+  {
+    "slug": "kolam-powder",
+    "id": "prod54",
+    "name": "Kolam Powder",
+    "description": "Used for drawing sacred kolam designs; brings focus, peace, and positive energy to the home.",
+    "category": "accessories",
+    "stock": 86,
+    "images": [
+      "/images/kolam-powder.jpg",
+      "/products/kolam-powder.jpg"
+    ]
+  },
+  {
+    "slug": "prod-1",
+    "id": "prod1",
+    "name": "Classic Cotton Shirt",
+    "description": "A breathable cotton shirt, comfortable for everyday wear.",
+    "category": "agarbathis",
+    "stock": 20,
+    "images": [
+      "/images/prod-1.svg",
+      "/images/prod-1.jpg"
+    ]
+  },
+  {
+    "slug": "prod-2",
+    "id": "prod2",
+    "name": "Slim Fit Jeans",
+    "description": "Durable slim-fit denim with a modern cut.",
+    "category": "kits",
+    "stock": 15,
+    "images": [
+      "/images/prod-2.svg"
+    ]
+  },
+  {
+    "slug": "prod-3",
+    "id": "prod3",
+    "name": "Women's A-line Dress",
+    "description": "Lightweight A-line dress suitable for casual and festive wear.",
+    "category": "lamps",
+    "stock": 12,
+    "images": [
+      "/images/prod-3.svg",
+      "/images/prod-3.jpg"
+    ]
+  },
+  {
+    "slug": "prod-4",
+    "id": "prod4",
+    "name": "Running Sneakers",
+    "description": "Cushioned running shoes with breathable mesh.",
+    "category": "agarbathis",
+    "stock": 30,
+    "images": [
+      "/images/prod-4.svg"
+    ]
+  },
+  {
+    "slug": "prod-5",
+    "id": "prod5",
+    "name": "Leather Wallet",
+    "description": "Compact leather wallet with multiple card slots.",
+    "category": "kits",
+    "stock": 25,
+    "images": [
+      "/images/prod-5.svg"
+    ]
+  },
+  {
+    "slug": "prod-6",
+    "id": "prod6",
+    "name": "Casual Loafers",
+    "description": "Slip-on loafers for smart-casual occasions.",
+    "category": "lamps",
+    "stock": 18,
+    "images": [
+      "/images/prod-6.svg"
+    ]
+  },
+  {
+    "slug": "prod-7",
+    "id": "prod7",
+    "name": "Cotton Bedsheet Set",
+    "description": "Soft, breathable bedsheet set available in multiple sizes.",
+    "category": "agarbathis",
+    "stock": 40,
+    "images": [
+      "/images/prod-7.svg",
+      "/images/prod-7.jpg"
+    ]
+  },
+  {
+    "slug": "prod-8",
+    "id": "prod8",
+    "name": "Ceramic Mug",
+    "description": "Microwave-safe ceramic mug with matte finish.",
+    "category": "kits",
+    "stock": 60,
+    "images": [
+      "/images/prod-8.svg"
+    ]
+  },
+  {
+    "slug": "prod-9",
+    "id": "prod9",
+    "name": "Stainless Steel Water Bottle",
+    "description": "Insulated bottle keeps drinks cold or hot for hours.",
+    "category": "lamps",
+    "stock": 50,
+    "images": [
+      "/images/prod-9.svg",
+      "/images/prod-9.jpg"
+    ]
+  },
+  {
+    "slug": "prod-10",
+    "id": "prod10",
+    "name": "Wireless Earbuds",
+    "description": "True wireless earbuds with charging case and good battery life.",
+    "category": "agarbathis",
+    "stock": 35,
+    "images": [
+      "/images/prod-10.svg"
+    ]
+  },
+  {
+    "slug": "prod-11",
+    "id": "prod11",
+    "name": "Bluetooth Speaker",
+    "description": "Portable speaker with rich sound and long battery life.",
+    "category": "kits",
+    "stock": 22,
+    "images": [
+      "/images/prod-11.svg"
+    ]
+  },
+  {
+    "slug": "prod-12",
+    "id": "prod12",
+    "name": "Travel Backpack",
+    "description": "Durable backpack with laptop compartment and multiple pockets.",
+    "category": "lamps",
+    "stock": 28,
+    "images": [
+      "/images/prod-12.svg"
+    ]
+  },
+  {
+    "slug": "prod-13",
+    "id": "prod13",
+    "name": "Sunglasses",
+    "description": "UV-protection sunglasses with polarized lenses.",
+    "category": "agarbathis",
+    "stock": 45,
+    "images": [
+      "/images/prod-13.svg"
+    ]
+  },
+  {
+    "slug": "prod-14",
+    "id": "prod14",
+    "name": "Wristwatch",
+    "description": "Analog wristwatch with leather strap.",
+    "category": "kits",
+    "stock": 14,
+    "images": [
+      "/images/prod-14.svg"
+    ]
+  },
+  {
+    "slug": "prod-15",
+    "id": "prod15",
+    "name": "Yoga Mat",
+    "description": "Non-slip yoga mat with comfortable cushioning.",
+    "category": "lamps",
+    "stock": 40,
+    "images": [
+      "/images/prod-15.svg"
+    ]
+  },
+  {
+    "slug": "prod-16",
+    "id": "prod16",
+    "name": "Organic Tea Pack",
+    "description": "Premium organic tea leaves packed for freshness.",
+    "category": "agarbathis",
+    "stock": 80,
+    "images": [
+      "/images/prod-16.svg"
+    ]
+  },
+  {
+    "slug": "prod-17",
+    "id": "prod17",
+    "name": "Handcrafted Soap",
+    "description": "Natural ingredients and mild fragrance for daily use.",
+    "category": "kits",
+    "stock": 55,
+    "images": [
+      "/images/prod-17.svg"
+    ]
+  },
+  {
+    "slug": "prod-18",
+    "id": "prod18",
+    "name": "Wall Art Print",
+    "description": "High-quality art print for home decoration.",
+    "category": "lamps",
+    "stock": 20,
+    "images": [
+      "/images/prod-18.svg"
+    ]
+  },
+  {
+    "slug": "prod-19",
+    "id": "prod19",
+    "name": "Ceramic Planter",
+    "description": "Stylish planter pot for indoor plants.",
+    "category": "agarbathis",
+    "stock": 30,
+    "images": [
+      "/images/prod-19.svg"
+    ]
+  },
+  {
+    "slug": "prod-20",
+    "id": "prod20",
+    "name": "Kitchen Knife Set",
+    "description": "Set of stainless steel knives with ergonomic handles.",
+    "category": "kits",
+    "stock": 10,
+    "images": [
+      "/images/prod-20.svg",
+      "/images/prod-20.jpg"
+    ]
+  },
+  {
+    "slug": "prod-21",
+    "id": "prod21",
+    "name": "Cutting Board",
+    "description": "Bamboo cutting board with juice groove.",
+    "category": "lamps",
+    "stock": 33,
+    "images": [
+      "/images/prod-21.svg"
+    ]
+  },
+  {
+    "slug": "prod-22",
+    "id": "prod22",
+    "name": "LED Desk Lamp",
+    "description": "Adjustable brightness and color temperature.",
+    "category": "agarbathis",
+    "stock": 27,
+    "images": [
+      "/images/prod-22.svg",
+      "/images/prod-22.jpg"
+    ]
+  },
+  {
+    "slug": "prod-23",
+    "id": "prod23",
+    "name": "Phone Case",
+    "description": "Shockproof phone case with slim profile.",
+    "category": "kits",
+    "stock": 70,
+    "images": [
+      "/images/prod-23.svg"
+    ]
+  },
+  {
+    "slug": "prod-24",
+    "id": "prod24",
+    "name": "Laptop Sleeve",
+    "description": "Padded sleeve to protect laptops during travel.",
+    "category": "lamps",
+    "stock": 26,
+    "images": [
+      "/images/prod-24.svg"
+    ]
+  },
+  {
+    "slug": "prod-25",
+    "id": "prod25",
+    "name": "Desk Organizer",
+    "description": "Keep your desk tidy with compartments for stationery.",
+    "category": "agarbathis",
+    "stock": 48,
+    "images": [
+      "/images/prod-25.svg"
+    ]
+  },
+  {
+    "slug": "prod-26",
+    "id": "prod26",
+    "name": "Portable Charger",
+    "description": "High-capacity power bank for phones and tablets.",
+    "category": "kits",
+    "stock": 60,
+    "images": [
+      "/images/prod-26.svg"
+    ]
+  },
+  {
+    "slug": "prod-27",
+    "id": "prod27",
+    "name": "Noise Cancelling Headphones",
+    "description": "Over-ear headphones with active noise cancellation.",
+    "category": "lamps",
+    "stock": 12,
+    "images": [
+      "/images/prod-27.svg"
+    ]
+  },
+  {
+    "slug": "prod-28",
+    "id": "prod28",
+    "name": "Travel Mug",
+    "description": "Leak-proof travel mug keeps beverages hot.",
+    "category": "agarbathis",
+    "stock": 45,
+    "images": [
+      "/images/prod-28.svg"
+    ]
+  },
+  {
+    "slug": "prod-29",
+    "id": "prod29",
+    "name": "Desk Chair Cushion",
+    "description": "Ergonomic cushion for office chairs.",
+    "category": "kits",
+    "stock": 37,
+    "images": [
+      "/images/prod-29.svg"
+    ]
+  },
+  {
+    "slug": "prod-30",
+    "id": "prod30",
+    "name": "Baby Blanket",
+    "description": "Soft, hypoallergenic blanket for infants.",
+    "category": "lamps",
+    "stock": 22,
+    "images": [
+      "/images/prod-30.svg"
+    ]
+  },
+  {
+    "slug": "prod-31",
+    "id": "prod31",
+    "name": "Kids' Puzzle",
+    "description": "Educational puzzle toy for young children.",
+    "category": "agarbathis",
+    "stock": 50,
+    "images": [
+      "/images/prod-31.svg"
+    ]
+  },
+  {
+    "slug": "prod-32",
+    "id": "prod32",
+    "name": "Board Game",
+    "description": "Family board game for 2-6 players.",
+    "category": "kits",
+    "stock": 18,
+    "images": [
+      "/images/prod-32.svg"
+    ]
+  },
+  {
+    "slug": "prod-33",
+    "id": "prod33",
+    "name": "Fitness Band",
+    "description": "Track steps, heart rate, and sleep patterns.",
+    "category": "lamps",
+    "stock": 40,
+    "images": [
+      "/images/prod-33.svg"
+    ]
+  },
+  {
+    "slug": "prod-34",
+    "id": "prod34",
+    "name": "Coffee Grinder",
+    "description": "Manual coffee grinder with adjustable settings.",
+    "category": "agarbathis",
+    "stock": 16,
+    "images": [
+      "/images/prod-34.svg"
+    ]
+  },
+  {
+    "slug": "prod-35",
+    "id": "prod35",
+    "name": "Herb Planter Kit",
+    "description": "Grow kitchen herbs with this starter kit.",
+    "category": "kits",
+    "stock": 29,
+    "images": [
+      "/images/prod-35.svg"
+    ]
+  },
+  {
+    "slug": "prod-36",
+    "id": "prod36",
+    "name": "Electric Kettle",
+    "description": "Fast-boil electric kettle with auto shut-off.",
+    "category": "lamps",
+    "stock": 21,
+    "images": [
+      "/images/prod-36.svg"
+    ]
+  },
+  {
+    "slug": "prod-37",
+    "id": "prod37",
+    "name": "Photo Frame",
+    "description": "Classic wooden photo frame for 4x6 photos.",
+    "category": "agarbathis",
+    "stock": 65,
+    "images": [
+      "/images/prod-37.svg"
+    ]
+  },
+  {
+    "slug": "prod-38",
+    "id": "prod38",
+    "name": "Bluetooth Keyboard",
+    "description": "Slim wireless keyboard compatible with multiple devices.",
+    "category": "kits",
+    "stock": 24,
+    "images": [
+      "/images/prod-38.svg"
+    ]
+  },
+  {
+    "slug": "prod-39",
+    "id": "prod39",
+    "name": "Rice Cooker",
+    "description": "Compact rice cooker with keep-warm function.",
+    "category": "lamps",
+    "stock": 19,
+    "images": [
+      "/images/prod-39.svg"
+    ]
+  },
+  {
+    "slug": "prod-40",
+    "id": "prod40",
+    "name": "Kitchen Timer",
+    "description": "Digital timer with magnetic backing.",
+    "category": "agarbathis",
+    "stock": 44,
+    "images": [
+      "/images/prod-40.svg"
+    ]
+  },
+  {
+    "slug": "prod-41",
+    "id": "prod41",
+    "name": "Baking Mat",
+    "description": "Non-stick silicone baking mat for ovens.",
+    "category": "kits",
+    "stock": 34,
+    "images": [
+      "/images/prod-41.svg"
+    ]
+  },
+  {
+    "slug": "prod-42",
+    "id": "prod42",
+    "name": "Puzzle Book",
+    "description": "Brain-teasing puzzles for leisure time.",
+    "category": "lamps",
+    "stock": 55,
+    "images": [
+      "/images/prod-42.svg"
+    ]
+  },
+  {
+    "slug": "prod-43",
+    "id": "prod43",
+    "name": "Beard Oil",
+    "description": "Nourishing oil for beard grooming.",
+    "category": "agarbathis",
+    "stock": 38,
+    "images": [
+      "/images/prod-43.svg",
+      "/images/prod-43.jpg"
+    ]
+  },
+  {
+    "slug": "prod-44",
+    "id": "prod44",
+    "name": "Face Towel Set",
+    "description": "Soft and absorbent face towels in a set of 3.",
+    "category": "kits",
+    "stock": 47,
+    "images": [
+      "/images/prod-44.svg",
+      "/images/prod-44.jpg"
+    ]
+  },
+  {
+    "slug": "prod-45",
+    "id": "prod45",
+    "name": "Essential Oil Diffuser",
+    "description": "Ultrasonic diffuser with ambient LED lights.",
+    "category": "lamps",
+    "stock": 13,
+    "images": [
+      "/images/prod-45.svg",
+      "/images/prod-45.jpg"
+    ]
+  },
+  {
+    "slug": "prod-46",
+    "id": "prod46",
+    "name": "Rechargeable Torch",
+    "description": "High-lumen torch with rechargeable battery.",
+    "category": "agarbathis",
+    "stock": 31,
+    "images": [
+      "/images/prod-46.svg"
+    ]
+  },
+  {
+    "slug": "prod-47",
+    "id": "prod47",
+    "name": "Wireless Mouse",
+    "description": "Compact wireless mouse with ergonomic shape.",
+    "category": "kits",
+    "stock": 52,
+    "images": [
+      "/images/prod-47.svg"
+    ]
+  },
+  {
+    "slug": "prod-48",
+    "id": "prod48",
+    "name": "Graphic Tee",
+    "description": "Soft cotton T-shirt with printed graphic.",
+    "category": "lamps",
+    "stock": 26,
+    "images": [
+      "/images/prod-48.svg"
+    ]
+  },
+  {
+    "slug": "prod-49",
+    "id": "prod49",
+    "name": "Beanie Hat",
+    "description": "Warm knit beanie for cold weather.",
+    "category": "agarbathis",
+    "stock": 66,
+    "images": [
+      "/images/prod-49.svg"
+    ]
+  },
+  {
+    "slug": "prod-50",
+    "id": "prod50",
+    "name": "Scented Candle",
+    "description": "Hand-poured scented candle with cotton wick.",
+    "category": "kits",
+    "stock": 40,
+    "images": [
+      "/images/prod-50.svg"
+    ]
+  },
+  {
+    "slug": "prod-51",
+    "id": "prod51",
+    "name": "Compact Umbrella",
+    "description": "Windproof umbrella that folds to a compact size.",
+    "category": "lamps",
+    "stock": 29,
+    "images": [
+      "/images/prod-51.svg"
+    ]
+  },
+  {
+    "slug": "prod-52",
+    "id": "prod52",
+    "name": "Memory Foam Pillow",
+    "description": "Comfortable pillow with contouring support.",
+    "category": "agarbathis",
+    "stock": 17,
+    "images": [
+      "/images/prod-52.svg"
+    ]
+  },
+  {
+    "slug": "prod-53",
+    "id": "prod53",
+    "name": "Silk Scarf",
+    "description": "Elegant silk scarf with printed pattern.",
+    "category": "kits",
+    "stock": 23,
+    "images": [
+      "/images/prod-53.svg"
+    ]
+  },
+  {
+    "slug": "prod-54",
+    "id": "prod54",
+    "name": "Kids' T-shirt",
+    "description": "Colorful T-shirt for children with soft fabric.",
+    "category": "lamps",
+    "stock": 58,
+    "images": [
+      "/images/prod-54.svg",
+      "/images/prod-54.jpg"
+    ]
+  },
+  {
+    "slug": "prod-55",
+    "id": "prod55",
+    "name": "Multi-tool",
+    "description": "Compact multi-tool with pliers, knife and screwdriver.",
+    "category": "agarbathis",
+    "stock": 21,
+    "images": [
+      "/images/prod-55.svg"
+    ]
+  }
+]

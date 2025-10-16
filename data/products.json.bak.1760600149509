@@ -1,0 +1,617 @@
+[
+  {
+    "id": "prod1",
+    "slug": "prod-1",
+    "name": "Classic Cotton Shirt",
+    "description": "A breathable cotton shirt, comfortable for everyday wear.",
+    "images": [
+      "/images/prod-1.svg",
+      "/images/prod-1.jpg"
+    ],
+    "stock": 20,
+    "category": "agarbathis"
+  },
+  {
+    "id": "prod2",
+    "slug": "prod-2",
+    "name": "Slim Fit Jeans",
+    "description": "Durable slim-fit denim with a modern cut.",
+    "images": [
+      "/images/prod-2.svg"
+    ],
+    "stock": 15,
+    "category": "kits"
+  },
+  {
+    "id": "prod3",
+    "slug": "prod-3",
+    "name": "Women's A-line Dress",
+    "description": "Lightweight A-line dress suitable for casual and festive wear.",
+    "images": [
+      "/images/prod-3.svg",
+      "/images/prod-3.jpg"
+    ],
+    "stock": 12,
+    "category": "lamps"
+  },
+  {
+    "id": "prod4",
+    "slug": "prod-4",
+    "name": "Running Sneakers",
+    "description": "Cushioned running shoes with breathable mesh.",
+    "images": [
+      "/images/prod-4.svg"
+    ],
+    "stock": 30,
+    "category": "agarbathis"
+  },
+  {
+    "id": "prod5",
+    "slug": "prod-5",
+    "name": "Leather Wallet",
+    "description": "Compact leather wallet with multiple card slots.",
+    "images": [
+      "/images/prod-5.svg"
+    ],
+    "stock": 25,
+    "category": "kits"
+  },
+  {
+    "id": "prod6",
+    "slug": "prod-6",
+    "name": "Casual Loafers",
+    "description": "Slip-on loafers for smart-casual occasions.",
+    "images": [
+      "/images/prod-6.svg"
+    ],
+    "stock": 18,
+    "category": "lamps"
+  },
+  {
+    "id": "prod7",
+    "slug": "prod-7",
+    "name": "Cotton Bedsheet Set",
+    "description": "Soft, breathable bedsheet set available in multiple sizes.",
+    "images": [
+      "/images/prod-7.svg",
+      "/images/prod-7.jpg"
+    ],
+    "stock": 40,
+    "category": "agarbathis"
+  },
+  {
+    "id": "prod8",
+    "slug": "prod-8",
+    "name": "Ceramic Mug",
+    "description": "Microwave-safe ceramic mug with matte finish.",
+    "images": [
+      "/images/prod-8.svg"
+    ],
+    "stock": 60,
+    "category": "kits"
+  },
+  {
+    "id": "prod9",
+    "slug": "prod-9",
+    "name": "Stainless Steel Water Bottle",
+    "description": "Insulated bottle keeps drinks cold or hot for hours.",
+    "images": [
+      "/images/prod-9.svg",
+      "/images/prod-9.jpg"
+    ],
+    "stock": 50,
+    "category": "lamps"
+  },
+  {
+    "id": "prod10",
+    "slug": "prod-10",
+    "name": "Wireless Earbuds",
+    "description": "True wireless earbuds with charging case and good battery life.",
+    "images": [
+      "/images/prod-10.svg"
+    ],
+    "stock": 35,
+    "category": "agarbathis"
+  },
+  {
+    "id": "prod11",
+    "slug": "prod-11",
+    "name": "Bluetooth Speaker",
+    "description": "Portable speaker with rich sound and long battery life.",
+    "images": [
+      "/images/prod-11.svg"
+    ],
+    "stock": 22,
+    "category": "kits"
+  },
+  {
+    "id": "prod12",
+    "slug": "prod-12",
+    "name": "Travel Backpack",
+    "description": "Durable backpack with laptop compartment and multiple pockets.",
+    "images": [
+      "/images/prod-12.svg"
+    ],
+    "stock": 28,
+    "category": "lamps"
+  },
+  {
+    "id": "prod13",
+    "slug": "prod-13",
+    "name": "Sunglasses",
+    "description": "UV-protection sunglasses with polarized lenses.",
+    "images": [
+      "/images/prod-13.svg"
+    ],
+    "stock": 45,
+    "category": "agarbathis"
+  },
+  {
+    "id": "prod14",
+    "slug": "prod-14",
+    "name": "Wristwatch",
+    "description": "Analog wristwatch with leather strap.",
+    "images": [
+      "/images/prod-14.svg"
+    ],
+    "stock": 14,
+    "category": "kits"
+  },
+  {
+    "id": "prod15",
+    "slug": "prod-15",
+    "name": "Yoga Mat",
+    "description": "Non-slip yoga mat with comfortable cushioning.",
+    "images": [
+      "/images/prod-15.svg"
+    ],
+    "stock": 40,
+    "category": "lamps"
+  },
+  {
+    "id": "prod16",
+    "slug": "prod-16",
+    "name": "Organic Tea Pack",
+    "description": "Premium organic tea leaves packed for freshness.",
+    "images": [
+      "/images/prod-16.svg"
+    ],
+    "stock": 80,
+    "category": "agarbathis"
+  },
+  {
+    "id": "prod17",
+    "slug": "prod-17",
+    "name": "Handcrafted Soap",
+    "description": "Natural ingredients and mild fragrance for daily use.",
+    "images": [
+      "/images/prod-17.svg"
+    ],
+    "stock": 55,
+    "category": "kits"
+  },
+  {
+    "id": "prod18",
+    "slug": "prod-18",
+    "name": "Wall Art Print",
+    "description": "High-quality art print for home decoration.",
+    "images": [
+      "/images/prod-18.svg"
+    ],
+    "stock": 20,
+    "category": "lamps"
+  },
+  {
+    "id": "prod19",
+    "slug": "prod-19",
+    "name": "Ceramic Planter",
+    "description": "Stylish planter pot for indoor plants.",
+    "images": [
+      "/images/prod-19.svg"
+    ],
+    "stock": 30,
+    "category": "agarbathis"
+  },
+  {
+    "id": "prod20",
+    "slug": "prod-20",
+    "name": "Kitchen Knife Set",
+    "description": "Set of stainless steel knives with ergonomic handles.",
+    "images": [
+      "/images/prod-20.svg",
+      "/images/prod-20.jpg"
+    ],
+    "stock": 10,
+    "category": "kits"
+  },
+  {
+    "id": "prod21",
+    "slug": "prod-21",
+    "name": "Cutting Board",
+    "description": "Bamboo cutting board with juice groove.",
+    "images": [
+      "/images/prod-21.svg"
+    ],
+    "stock": 33,
+    "category": "lamps"
+  },
+  {
+    "id": "prod22",
+    "slug": "prod-22",
+    "name": "LED Desk Lamp",
+    "description": "Adjustable brightness and color temperature.",
+    "images": [
+      "/images/prod-22.svg",
+      "/images/prod-22.jpg"
+    ],
+    "stock": 27,
+    "category": "agarbathis"
+  },
+  {
+    "id": "prod23",
+    "slug": "prod-23",
+    "name": "Phone Case",
+    "description": "Shockproof phone case with slim profile.",
+    "images": [
+      "/images/prod-23.svg"
+    ],
+    "stock": 70,
+    "category": "kits"
+  },
+  {
+    "id": "prod24",
+    "slug": "prod-24",
+    "name": "Laptop Sleeve",
+    "description": "Padded sleeve to protect laptops during travel.",
+    "images": [
+      "/images/prod-24.svg"
+    ],
+    "stock": 26,
+    "category": "lamps"
+  },
+  {
+    "id": "prod25",
+    "slug": "prod-25",
+    "name": "Desk Organizer",
+    "description": "Keep your desk tidy with compartments for stationery.",
+    "images": [
+      "/images/prod-25.svg"
+    ],
+    "stock": 48,
+    "category": "agarbathis"
+  },
+  {
+    "id": "prod26",
+    "slug": "prod-26",
+    "name": "Portable Charger",
+    "description": "High-capacity power bank for phones and tablets.",
+    "images": [
+      "/images/prod-26.svg"
+    ],
+    "stock": 60,
+    "category": "kits"
+  },
+  {
+    "id": "prod27",
+    "slug": "prod-27",
+    "name": "Noise Cancelling Headphones",
+    "description": "Over-ear headphones with active noise cancellation.",
+    "images": [
+      "/images/prod-27.svg"
+    ],
+    "stock": 12,
+    "category": "lamps"
+  },
+  {
+    "id": "prod28",
+    "slug": "prod-28",
+    "name": "Travel Mug",
+    "description": "Leak-proof travel mug keeps beverages hot.",
+    "images": [
+      "/images/prod-28.svg"
+    ],
+    "stock": 45,
+    "category": "agarbathis"
+  },
+  {
+    "id": "prod29",
+    "slug": "prod-29",
+    "name": "Desk Chair Cushion",
+    "description": "Ergonomic cushion for office chairs.",
+    "images": [
+      "/images/prod-29.svg"
+    ],
+    "stock": 37,
+    "category": "kits"
+  },
+  {
+    "id": "prod30",
+    "slug": "prod-30",
+    "name": "Baby Blanket",
+    "description": "Soft, hypoallergenic blanket for infants.",
+    "images": [
+      "/images/prod-30.svg"
+    ],
+    "stock": 22,
+    "category": "lamps"
+  },
+  {
+    "id": "prod31",
+    "slug": "prod-31",
+    "name": "Kids' Puzzle",
+    "description": "Educational puzzle toy for young children.",
+    "images": [
+      "/images/prod-31.svg"
+    ],
+    "stock": 50,
+    "category": "agarbathis"
+  },
+  {
+    "id": "prod32",
+    "slug": "prod-32",
+    "name": "Board Game",
+    "description": "Family board game for 2-6 players.",
+    "images": [
+      "/images/prod-32.svg"
+    ],
+    "stock": 18,
+    "category": "kits"
+  },
+  {
+    "id": "prod33",
+    "slug": "prod-33",
+    "name": "Fitness Band",
+    "description": "Track steps, heart rate, and sleep patterns.",
+    "images": [
+      "/images/prod-33.svg"
+    ],
+    "stock": 40,
+    "category": "lamps"
+  },
+  {
+    "id": "prod34",
+    "slug": "prod-34",
+    "name": "Coffee Grinder",
+    "description": "Manual coffee grinder with adjustable settings.",
+    "images": [
+      "/images/prod-34.svg"
+    ],
+    "stock": 16,
+    "category": "agarbathis"
+  },
+  {
+    "id": "prod35",
+    "slug": "prod-35",
+    "name": "Herb Planter Kit",
+    "description": "Grow kitchen herbs with this starter kit.",
+    "images": [
+      "/images/prod-35.svg"
+    ],
+    "stock": 29,
+    "category": "kits"
+  },
+  {
+    "id": "prod36",
+    "slug": "prod-36",
+    "name": "Electric Kettle",
+    "description": "Fast-boil electric kettle with auto shut-off.",
+    "images": [
+      "/images/prod-36.svg"
+    ],
+    "stock": 21,
+    "category": "lamps"
+  },
+  {
+    "id": "prod37",
+    "slug": "prod-37",
+    "name": "Photo Frame",
+    "description": "Classic wooden photo frame for 4x6 photos.",
+    "images": [
+      "/images/prod-37.svg"
+    ],
+    "stock": 65,
+    "category": "agarbathis"
+  },
+  {
+    "id": "prod38",
+    "slug": "prod-38",
+    "name": "Bluetooth Keyboard",
+    "description": "Slim wireless keyboard compatible with multiple devices.",
+    "images": [
+      "/images/prod-38.svg"
+    ],
+    "stock": 24,
+    "category": "kits"
+  },
+  {
+    "id": "prod39",
+    "slug": "prod-39",
+    "name": "Rice Cooker",
+    "description": "Compact rice cooker with keep-warm function.",
+    "images": [
+      "/images/prod-39.svg"
+    ],
+    "stock": 19,
+    "category": "lamps"
+  },
+  {
+    "id": "prod40",
+    "slug": "prod-40",
+    "name": "Kitchen Timer",
+    "description": "Digital timer with magnetic backing.",
+    "images": [
+      "/images/prod-40.svg"
+    ],
+    "stock": 44,
+    "category": "agarbathis"
+  },
+  {
+    "id": "prod41",
+    "slug": "prod-41",
+    "name": "Baking Mat",
+    "description": "Non-stick silicone baking mat for ovens.",
+    "images": [
+      "/images/prod-41.svg"
+    ],
+    "stock": 34,
+    "category": "kits"
+  },
+  {
+    "id": "prod42",
+    "slug": "prod-42",
+    "name": "Puzzle Book",
+    "description": "Brain-teasing puzzles for leisure time.",
+    "images": [
+      "/images/prod-42.svg"
+    ],
+    "stock": 55,
+    "category": "lamps"
+  },
+  {
+    "id": "prod43",
+    "slug": "prod-43",
+    "name": "Beard Oil",
+    "description": "Nourishing oil for beard grooming.",
+    "images": [
+      "/images/prod-43.svg",
+      "/images/prod-43.jpg"
+    ],
+    "stock": 38,
+    "category": "agarbathis"
+  },
+  {
+    "id": "prod44",
+    "slug": "prod-44",
+    "name": "Face Towel Set",
+    "description": "Soft and absorbent face towels in a set of 3.",
+    "images": [
+      "/images/prod-44.svg",
+      "/images/prod-44.jpg"
+    ],
+    "stock": 47,
+    "category": "kits"
+  },
+  {
+    "id": "prod45",
+    "slug": "prod-45",
+    "name": "Essential Oil Diffuser",
+    "description": "Ultrasonic diffuser with ambient LED lights.",
+    "images": [
+      "/images/prod-45.svg",
+      "/images/prod-45.jpg"
+    ],
+    "stock": 13,
+    "category": "lamps"
+  },
+  {
+    "id": "prod46",
+    "slug": "prod-46",
+    "name": "Rechargeable Torch",
+    "description": "High-lumen torch with rechargeable battery.",
+    "images": [
+      "/images/prod-46.svg"
+    ],
+    "stock": 31,
+    "category": "agarbathis"
+  },
+  {
+    "id": "prod47",
+    "slug": "prod-47",
+    "name": "Wireless Mouse",
+    "description": "Compact wireless mouse with ergonomic shape.",
+    "images": [
+      "/images/prod-47.svg"
+    ],
+    "stock": 52,
+    "category": "kits"
+  },
+  {
+    "id": "prod48",
+    "slug": "prod-48",
+    "name": "Graphic Tee",
+    "description": "Soft cotton T-shirt with printed graphic.",
+    "images": [
+      "/images/prod-48.svg"
+    ],
+    "stock": 26,
+    "category": "lamps"
+  },
+  {
+    "id": "prod49",
+    "slug": "prod-49",
+    "name": "Beanie Hat",
+    "description": "Warm knit beanie for cold weather.",
+    "images": [
+      "/images/prod-49.svg"
+    ],
+    "stock": 66,
+    "category": "agarbathis"
+  },
+  {
+    "id": "prod50",
+    "slug": "prod-50",
+    "name": "Scented Candle",
+    "description": "Hand-poured scented candle with cotton wick.",
+    "images": [
+      "/images/prod-50.svg"
+    ],
+    "stock": 40,
+    "category": "kits"
+  },
+  {
+    "id": "prod51",
+    "slug": "prod-51",
+    "name": "Compact Umbrella",
+    "description": "Windproof umbrella that folds to a compact size.",
+    "images": [
+      "/images/prod-51.svg"
+    ],
+    "stock": 29,
+    "category": "lamps"
+  },
+  {
+    "id": "prod52",
+    "slug": "prod-52",
+    "name": "Memory Foam Pillow",
+    "description": "Comfortable pillow with contouring support.",
+    "images": [
+      "/images/prod-52.svg"
+    ],
+    "stock": 17,
+    "category": "agarbathis"
+  },
+  {
+    "id": "prod53",
+    "slug": "prod-53",
+    "name": "Silk Scarf",
+    "description": "Elegant silk scarf with printed pattern.",
+    "images": [
+      "/images/prod-53.svg"
+    ],
+    "stock": 23,
+    "category": "kits"
+  },
+  {
+    "id": "prod54",
+    "slug": "prod-54",
+    "name": "Kids' T-shirt",
+    "description": "Colorful T-shirt for children with soft fabric.",
+    "images": [
+      "/images/prod-54.svg",
+      "/images/prod-54.jpg"
+    ],
+    "stock": 58,
+    "category": "lamps"
+  },
+  {
+    "id": "prod55",
+    "slug": "prod-55",
+    "name": "Multi-tool",
+    "description": "Compact multi-tool with pliers, knife and screwdriver.",
+    "images": [
+      "/images/prod-55.svg"
+    ],
+    "stock": 21,
+    "category": "agarbathis"
+  }
+]
